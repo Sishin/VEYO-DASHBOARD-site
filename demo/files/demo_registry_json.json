@@ -1,0 +1,823 @@
+{
+  "schemaVersion": 1,
+  "elements": [
+    {
+      "type": "image_slot",
+      "version": 1,
+      "kind": "primitive",
+      "displayName": "Photo slot",
+      "category": "basics",
+      "icon": "slot",
+      "description": "User-fillable photo placeholder.",
+      "minClientVersion": {
+        "android": "1.0.0",
+        "ios": "1.0.0"
+      },
+      "defaultSize": {
+        "w": 600,
+        "h": 750
+      },
+      "defaultUserLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "props": {
+        "type": "object",
+        "properties": {
+          "slotIndex": {
+            "type": "integer",
+            "minimum": 0,
+            "default": 0
+          },
+          "sampleAsset": {
+            "type": "string",
+            "format": "asset-ref"
+          },
+          "allowUserTransform": {
+            "type": "boolean",
+            "default": true
+          },
+          "placeholderStyle": {
+            "type": "object",
+            "title": "Placeholder override",
+            "properties": {
+              "fill": {
+                "type": "string",
+                "format": "color"
+              },
+              "iconColor": {
+                "type": "string",
+                "format": "color"
+              },
+              "iconSize": {
+                "type": "number"
+              }
+            }
+          }
+        },
+        "required": [
+          "slotIndex"
+        ]
+      },
+      "ui": {
+        "slotIndex": {
+          "widget": "slotIndexPicker",
+          "group": "Slot"
+        },
+        "sampleAsset": {
+          "widget": "assetPicker",
+          "group": "Slot",
+          "label": "Sample photo",
+          "options": {
+            "folder": "samples"
+          }
+        },
+        "allowUserTransform": {
+          "widget": "toggle",
+          "group": "Slot",
+          "label": "User can pan/zoom/rotate"
+        },
+        "placeholderStyle.fill": {
+          "widget": "colorPicker",
+          "group": "Placeholder"
+        },
+        "placeholderStyle.iconColor": {
+          "widget": "colorPicker",
+          "group": "Placeholder"
+        },
+        "placeholderStyle.iconSize": {
+          "widget": "number",
+          "group": "Placeholder",
+          "step": 4
+        }
+      }
+    },
+    {
+      "type": "text",
+      "version": 1,
+      "kind": "primitive",
+      "displayName": "Text",
+      "category": "basics",
+      "icon": "text",
+      "minClientVersion": {
+        "android": "1.0.0",
+        "ios": "1.0.0"
+      },
+      "defaultSize": {
+        "w": 600,
+        "h": 120
+      },
+      "defaultUserLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "props": {
+        "type": "object",
+        "properties": {
+          "content": {
+            "type": "string",
+            "default": "Your text",
+            "title": "Default text"
+          },
+          "sampleContent": {
+            "type": "string",
+            "title": "Sample text"
+          },
+          "placeholder": {
+            "type": "string",
+            "title": "Placeholder hint"
+          },
+          "editable": {
+            "type": "boolean",
+            "default": true
+          },
+          "maxLength": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "maxLines": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "autoFit": {
+            "type": "string",
+            "enum": [
+              "none",
+              "shrink"
+            ],
+            "default": "none"
+          },
+          "minFontSize": {
+            "type": "number",
+            "minimum": 1
+          },
+          "style": {
+            "type": "object",
+            "properties": {
+              "fontFamily": {
+                "type": "string",
+                "format": "font-family",
+                "default": "Inter 18pt"
+              },
+              "fontWeight": {
+                "type": "integer",
+                "enum": [
+                  100,
+                  200,
+                  300,
+                  400,
+                  500,
+                  600,
+                  700,
+                  800,
+                  900
+                ],
+                "default": 400
+              },
+              "fontStyle": {
+                "type": "string",
+                "enum": [
+                  "normal",
+                  "italic"
+                ],
+                "default": "normal"
+              },
+              "fontSize": {
+                "type": "number",
+                "minimum": 1,
+                "default": 64
+              },
+              "lineHeight": {
+                "type": "number",
+                "minimum": 0.5,
+                "maximum": 3,
+                "default": 1.2
+              },
+              "letterSpacing": {
+                "type": "number",
+                "default": 0
+              },
+              "color": {
+                "type": "string",
+                "format": "color",
+                "default": "#1F1F1F"
+              },
+              "align": {
+                "type": "string",
+                "enum": [
+                  "left",
+                  "center",
+                  "right"
+                ],
+                "default": "left"
+              },
+              "verticalAlign": {
+                "type": "string",
+                "enum": [
+                  "top",
+                  "middle",
+                  "bottom"
+                ],
+                "default": "top"
+              },
+              "textTransform": {
+                "type": "string",
+                "enum": [
+                  "none",
+                  "uppercase",
+                  "lowercase",
+                  "capitalize"
+                ],
+                "default": "none"
+              }
+            },
+            "required": [
+              "fontFamily",
+              "fontSize"
+            ]
+          }
+        },
+        "required": [
+          "content",
+          "style"
+        ]
+      },
+      "ui": {
+        "content": {
+          "widget": "textarea",
+          "group": "Content",
+          "label": "Default text (empty state)"
+        },
+        "sampleContent": {
+          "widget": "textarea",
+          "group": "Content",
+          "label": "Sample text"
+        },
+        "placeholder": {
+          "widget": "text",
+          "group": "Content",
+          "label": "Placeholder hint (app edit mode only)"
+        },
+        "editable": {
+          "widget": "toggle",
+          "group": "Constraints",
+          "label": "User can edit text"
+        },
+        "maxLength": {
+          "widget": "number",
+          "group": "Constraints"
+        },
+        "maxLines": {
+          "widget": "number",
+          "group": "Constraints"
+        },
+        "autoFit": {
+          "widget": "select",
+          "group": "Constraints"
+        },
+        "minFontSize": {
+          "widget": "number",
+          "group": "Constraints"
+        },
+        "style.fontFamily": {
+          "widget": "fontPicker",
+          "group": "Style"
+        },
+        "style.fontWeight": {
+          "widget": "select",
+          "group": "Style"
+        },
+        "style.fontStyle": {
+          "widget": "select",
+          "group": "Style"
+        },
+        "style.fontSize": {
+          "widget": "number",
+          "group": "Style",
+          "step": 1
+        },
+        "style.lineHeight": {
+          "widget": "slider",
+          "group": "Style",
+          "step": 0.05,
+          "min": 0.6,
+          "max": 2.5
+        },
+        "style.letterSpacing": {
+          "widget": "number",
+          "group": "Style",
+          "step": 0.5
+        },
+        "style.color": {
+          "widget": "colorPicker",
+          "group": "Style"
+        },
+        "style.align": {
+          "widget": "select",
+          "group": "Style"
+        },
+        "style.verticalAlign": {
+          "widget": "select",
+          "group": "Style"
+        },
+        "style.textTransform": {
+          "widget": "select",
+          "group": "Style"
+        }
+      }
+    },
+    {
+      "type": "image",
+      "version": 1,
+      "kind": "primitive",
+      "displayName": "Image",
+      "category": "basics",
+      "icon": "image",
+      "minClientVersion": {
+        "android": "1.0.0",
+        "ios": "1.0.0"
+      },
+      "defaultSize": {
+        "w": 400,
+        "h": 400
+      },
+      "defaultUserLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "props": {
+        "type": "object",
+        "properties": {
+          "asset": {
+            "type": "string",
+            "format": "asset-ref"
+          },
+          "fit": {
+            "type": "string",
+            "enum": [
+              "cover",
+              "contain",
+              "fill"
+            ],
+            "default": "contain"
+          },
+          "replaceable": {
+            "type": "boolean",
+            "default": false
+          },
+          "sampleAsset": {
+            "type": "string",
+            "format": "asset-ref"
+          }
+        },
+        "required": [
+          "asset"
+        ]
+      },
+      "ui": {
+        "asset": {
+          "widget": "assetPicker",
+          "group": "Image"
+        },
+        "fit": {
+          "widget": "select",
+          "group": "Image"
+        },
+        "replaceable": {
+          "widget": "toggle",
+          "group": "Image",
+          "label": "User can replace photo"
+        },
+        "sampleAsset": {
+          "widget": "assetPicker",
+          "group": "Image",
+          "label": "Sample image (optional)",
+          "options": {
+            "folder": "samples"
+          }
+        }
+      }
+    },
+    {
+      "type": "shape",
+      "version": 1,
+      "kind": "primitive",
+      "displayName": "Shape",
+      "category": "basics",
+      "icon": "shape",
+      "minClientVersion": {
+        "android": "1.0.0",
+        "ios": "1.0.0"
+      },
+      "defaultSize": {
+        "w": 300,
+        "h": 300
+      },
+      "defaultUserLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "props": {
+        "type": "object",
+        "properties": {
+          "shape": {
+            "type": "string",
+            "enum": [
+              "rect",
+              "ellipse",
+              "line",
+              "path"
+            ],
+            "default": "rect"
+          },
+          "fill": {
+            "type": "string",
+            "format": "fill",
+            "default": "#E8DCC8"
+          },
+          "stroke": {
+            "type": "string",
+            "format": "color"
+          },
+          "strokeWidth": {
+            "type": "number",
+            "minimum": 0,
+            "default": 0
+          },
+          "cornerRadius": {
+            "type": "number",
+            "minimum": 0,
+            "default": 0
+          },
+          "pathData": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "shape"
+        ]
+      },
+      "ui": {
+        "shape": {
+          "widget": "select",
+          "group": "Shape"
+        },
+        "fill": {
+          "widget": "gradientPicker",
+          "group": "Shape"
+        },
+        "stroke": {
+          "widget": "colorPicker",
+          "group": "Shape"
+        },
+        "strokeWidth": {
+          "widget": "number",
+          "group": "Shape",
+          "step": 1
+        },
+        "cornerRadius": {
+          "widget": "number",
+          "group": "Shape",
+          "step": 2
+        },
+        "pathData": {
+          "widget": "textarea",
+          "group": "Shape",
+          "label": "SVG path data"
+        }
+      }
+    },
+    {
+      "type": "group",
+      "version": 1,
+      "kind": "primitive",
+      "displayName": "Group",
+      "category": "basics",
+      "icon": "group",
+      "hidden": true,
+      "minClientVersion": {
+        "android": "1.0.0",
+        "ios": "1.0.0"
+      },
+      "props": {
+        "type": "object",
+        "properties": {}
+      },
+      "ui": {}
+    },
+    {
+      "type": "video",
+      "version": 1,
+      "kind": "primitive",
+      "displayName": "Video",
+      "category": "media",
+      "icon": "video",
+      "minClientVersion": {
+        "android": "1.2.0",
+        "ios": "1.2.0"
+      },
+      "defaultSize": {
+        "w": 1080,
+        "h": 1350
+      },
+      "props": {
+        "type": "object",
+        "properties": {
+          "asset": {
+            "type": "string",
+            "format": "asset-ref"
+          },
+          "loop": {
+            "type": "boolean",
+            "default": true
+          },
+          "startMs": {
+            "type": "number",
+            "minimum": 0
+          },
+          "endMs": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "asset"
+        ]
+      },
+      "ui": {
+        "asset": {
+          "widget": "assetPicker",
+          "group": "Media",
+          "options": {
+            "folder": "videos"
+          }
+        },
+        "loop": {
+          "widget": "toggle",
+          "group": "Media"
+        },
+        "startMs": {
+          "widget": "number",
+          "group": "Media",
+          "step": 100
+        },
+        "endMs": {
+          "widget": "number",
+          "group": "Media",
+          "step": 100
+        }
+      }
+    },
+    {
+      "type": "lottie",
+      "version": 1,
+      "kind": "primitive",
+      "displayName": "Lottie",
+      "category": "media",
+      "icon": "lottie",
+      "minClientVersion": {
+        "android": "1.2.0",
+        "ios": "1.2.0"
+      },
+      "defaultSize": {
+        "w": 400,
+        "h": 400
+      },
+      "props": {
+        "type": "object",
+        "properties": {
+          "asset": {
+            "type": "string",
+            "format": "asset-ref"
+          },
+          "loop": {
+            "type": "boolean",
+            "default": true
+          },
+          "startMs": {
+            "type": "number",
+            "minimum": 0
+          },
+          "endMs": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "asset"
+        ]
+      },
+      "ui": {
+        "asset": {
+          "widget": "assetPicker",
+          "group": "Media",
+          "options": {
+            "folder": "lottie"
+          }
+        },
+        "loop": {
+          "widget": "toggle",
+          "group": "Media"
+        },
+        "startMs": {
+          "widget": "number",
+          "group": "Media",
+          "step": 100
+        },
+        "endMs": {
+          "widget": "number",
+          "group": "Media",
+          "step": 100
+        }
+      }
+    },
+    {
+      "type": "polaroid",
+      "version": 1,
+      "kind": "component",
+      "displayName": "Polaroid",
+      "category": "frames",
+      "icon": "polaroid",
+      "defaultSize": {
+        "w": 560,
+        "h": 660
+      },
+      "defaultUserLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "props": {
+        "type": "object",
+        "properties": {
+          "slotIndex": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "sampleAsset": {
+            "type": "string",
+            "format": "asset-ref"
+          },
+          "caption": {
+            "type": "string",
+            "default": "",
+            "maxLength": 30
+          },
+          "sampleCaption": {
+            "type": "string",
+            "default": ""
+          },
+          "captionPlaceholder": {
+            "type": "string",
+            "default": "Add caption"
+          },
+          "frameColor": {
+            "type": "string",
+            "format": "color",
+            "default": "#FBF8F2"
+          },
+          "showTape": {
+            "type": "boolean",
+            "default": true
+          },
+          "tapeAsset": {
+            "type": "string",
+            "format": "asset-ref",
+            "default": "drive:fx_tape_masking"
+          },
+          "captionFont": {
+            "type": "string",
+            "format": "font-family",
+            "default": "Caveat"
+          }
+        },
+        "required": [
+          "slotIndex"
+        ]
+      },
+      "ui": {
+        "slotIndex": {
+          "widget": "slotIndexPicker",
+          "group": "Photo"
+        },
+        "sampleAsset": {
+          "widget": "assetPicker",
+          "group": "Photo",
+          "options": {
+            "folder": "samples"
+          }
+        },
+        "caption": {
+          "widget": "text",
+          "group": "Caption"
+        },
+        "sampleCaption": {
+          "widget": "text",
+          "group": "Caption"
+        },
+        "captionPlaceholder": {
+          "widget": "text",
+          "group": "Caption"
+        },
+        "frameColor": {
+          "widget": "colorPicker",
+          "group": "Style"
+        },
+        "showTape": {
+          "widget": "toggle",
+          "group": "Style"
+        },
+        "tapeAsset": {
+          "widget": "assetPicker",
+          "group": "Style",
+          "options": {
+            "folder": "stickers/tape"
+          }
+        },
+        "captionFont": {
+          "widget": "fontPicker",
+          "group": "Caption"
+        }
+      },
+      "composition": {
+        "type": "group",
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1,
+        "children": [
+          {
+            "id": "frame",
+            "type": "shape",
+            "shape": "rect",
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1,
+            "fill": "{{frameColor}}",
+            "shadow": {
+              "color": "rgba(0,0,0,0.25)",
+              "blur": 18,
+              "x": 0,
+              "y": 6
+            }
+          },
+          {
+            "id": "photo",
+            "type": "image_slot",
+            "slotIndex": "{{slotIndex}}",
+            "sampleAsset": "{{sampleAsset}}",
+            "x": 0.06,
+            "y": 0.05,
+            "w": 0.88,
+            "h": 0.72,
+            "fit": "cover",
+            "allowUserTransform": true
+          },
+          {
+            "id": "caption",
+            "type": "text",
+            "x": 0.06,
+            "y": 0.8,
+            "w": 0.88,
+            "h": 0.15,
+            "editable": true,
+            "content": "{{caption}}",
+            "sampleContent": "{{sampleCaption}}",
+            "placeholder": "{{captionPlaceholder}}",
+            "maxLines": 1,
+            "autoFit": "shrink",
+            "style": {
+              "fontFamily": "{{captionFont}}",
+              "fontSize": 0.075,
+              "color": "#2B2B2B",
+              "align": "center",
+              "verticalAlign": "middle"
+            }
+          },
+          {
+            "id": "tape",
+            "type": "image",
+            "asset": "{{tapeAsset}}",
+            "visible": "{{showTape}}",
+            "x": 0.36,
+            "y": -0.05,
+            "w": 0.28,
+            "h": 0.11,
+            "fit": "contain"
+          }
+        ]
+      }
+    }
+  ],
+  "updatedAt": "2026-09-25T09:00:00.000Z"
+}
