@@ -1,0 +1,123 @@
+{
+  "id": "tpl_untitled_template_25",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Happy me",
+    "tags": [
+      "lifestyle",
+      "story",
+      "portrait"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1920,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1U0ub3ber02rErzuwgQ5vcdWJV1s2ICwO"
+    },
+    {
+      "id": "frame_frame_kodak",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 108,
+      "y": 546,
+      "w": 864,
+      "h": 828,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 70.14519906323184,
+          "y": 63.40046838407494,
+          "w": 723.7096018735363,
+          "h": 706.847775175644,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1z-xiIwSN4d_qnU8d_9iVgdSza7F7MnNP"
+        },
+        {
+          "id": "frame_frame_kodak_png",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 828,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-14T16:15:10.211Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

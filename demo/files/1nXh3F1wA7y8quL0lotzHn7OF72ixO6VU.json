@@ -1,0 +1,362 @@
+{
+  "id": "tpl_untitled_template_5",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Italy Landscape",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 3,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Ous5uo-1hu4FbXhAtAozkOzBLEGI_tmQ"
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 367,
+      "y": 761,
+      "w": 347,
+      "h": 463,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 347.0295693323886,
+          "h": 462.70609244318393,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 0,
+          "y": 0,
+          "w": 347.0295693323886,
+          "h": 462.70609244318393,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1i9LC6spXyp7mpsGfSvORlTfTZRbZcc0i"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 675,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1eoa3ICronPXtWRKa9G2ip5u9hVq61Jen"
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait_copy",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 1447,
+      "y": 86,
+      "w": 347,
+      "h": 463,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png_copy",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 347.0295693323886,
+          "h": 462.70609244318393,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 0,
+          "y": 0,
+          "w": 347.0295693323886,
+          "h": 462.70609244318393,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1b8WZ7P8um0T4n9wBBRYJHSYi0n3cOhFF",
+          "sampleTransform": {
+            "scale": 1.23,
+            "offsetX": 0.06883060705784454,
+            "offsetY": 0.08849649478865719,
+            "rotation": 0
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:mem_zobvr59bpm"
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 2527,
+      "y": 761,
+      "w": 347,
+      "h": 463,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png_copy_2",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 347.0295693323886,
+          "h": 462.70609244318393,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 4,
+          "x": 0,
+          "y": 0,
+          "w": 347.0295693323886,
+          "h": 462.70609244318393,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1C2A6hgFw4I4ZiDh41fki3KOAnY3cl26E",
+          "sampleTransform": {
+            "scale": 1.31,
+            "offsetX": 0.05062701444730398,
+            "offsetY": -0.10441821729756341,
+            "rotation": 0
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Dolomites, Italy",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 241,
+      "y": 1204,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Costa Smeralda",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1321,
+      "y": 531,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Lake Braies",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2401,
+      "y": 1204,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-06T17:05:15.031Z",
+  "updatedBy": "designer@veyo.local"
+}

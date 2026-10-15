@@ -1,0 +1,365 @@
+{
+  "id": "tpl_untitled_template_9",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Love from France",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1-f0IjtXoqOMtAoasW-f7pyYAkoWVj7dt"
+    },
+    {
+      "id": "sticker_postcard",
+      "type": "image",
+      "name": "sticker_postcard.png",
+      "asset": "drive:1YN0YpVFPmGJERl1zsmFEetFi7L0mvgkW",
+      "fit": "contain",
+      "x": 302,
+      "y": 175,
+      "w": 600,
+      "h": 901,
+      "rotation": -9.57,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 196,
+      "y": 245,
+      "w": 689,
+      "h": 861,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1CmQdMDxK2bLiSbD0qBR0a9p6Z_jcGVqY",
+      "sampleTransform": {
+        "scale": 1.61,
+        "offsetX": 0.011082887758890166,
+        "offsetY": -0.466280487804878,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "travel_fabric_heart",
+      "type": "image",
+      "name": "travel_fabric_heart.png",
+      "asset": "drive:1vrrRQW8JZbus0CYNqrgXmDvwpDNboj05",
+      "fit": "contain",
+      "x": 451,
+      "y": 198,
+      "w": 320,
+      "h": 183,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_paperclip_black",
+      "type": "image",
+      "name": "generic_paperclip_black.png",
+      "asset": "drive:10zNNcdoSnEgmcpCaBWbCdZBjKerfCb0z",
+      "fit": "contain",
+      "x": 381,
+      "y": 157,
+      "w": 320,
+      "h": 183,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1yXI3Dt1MJXn6bsVneiB6FcAVTaYFjRDX"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 675,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1fDDIIlt8G37o7h8uGg4r7XbvUANnOB7T"
+    },
+    {
+      "id": "seperator_paper_white_thin",
+      "type": "image",
+      "name": "Seperator_paper_white_thin.png",
+      "asset": "drive:1irY_Hok-drvcgVKVO2z9IKygWFkhYPRN",
+      "fit": "contain",
+      "x": 952,
+      "y": -18,
+      "w": 256,
+      "h": 1387,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 3,
+      "w": 2160,
+      "h": 1347,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ryLi8P11l5nUqU5wjXEL4yHa8Pyue3jq",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.06766567317890239,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "seperator_paper_white_thin_copy",
+      "type": "image",
+      "name": "Seperator_paper_white_thin.png",
+      "asset": "drive:1irY_Hok-drvcgVKVO2z9IKygWFkhYPRN",
+      "fit": "contain",
+      "x": 2032,
+      "y": 0,
+      "w": 256,
+      "h": 1387,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 3,
+      "w": 1080,
+      "h": 1347,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1RRZjLUkICU8rabrmVDwn62xVgSj_jXcQ"
+    },
+    {
+      "id": "seperator_paper_white_thin_copy_2",
+      "type": "image",
+      "name": "Seperator_paper_white_thin.png",
+      "asset": "drive:1irY_Hok-drvcgVKVO2z9IKygWFkhYPRN",
+      "fit": "contain",
+      "x": 4192,
+      "y": 0,
+      "w": 256,
+      "h": 1387,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_thin_border_portrait",
+      "type": "group",
+      "name": "Frame · Frame_paper_thin_border_portrait.png",
+      "x": 4571,
+      "y": 307,
+      "w": 579,
+      "h": 773,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_thin_border_portrait_slot0",
+          "type": "image_slot",
+          "slotIndex": 6,
+          "x": 66.67236144426441,
+          "y": 65.07222476960209,
+          "w": 461.3727411943097,
+          "h": 625.1200609014234,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1zy77xeXZTxrojACyam3QFDibTl-22qWe",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1445086705202312,
+            "y": -0.10409556313993173,
+            "w": 1.2554913294797687,
+            "h": 1.235494880546075
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:15Kw_aiSN1JowHp4UZu3RrsP-KcGfh_ck",
+          "sampleTransform": {
+            "scale": 2.27,
+            "offsetX": 0.9126937372240751,
+            "offsetY": 0.20065211600071792,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_paper_thin_border_portrait_png",
+          "type": "image",
+          "name": "Frame_paper_thin_border_portrait.png",
+          "asset": "drive:1zy77xeXZTxrojACyam3QFDibTl-22qWe",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 579.2494762277693,
+          "h": 772.3326349703593,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Love from France",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4560,
+      "y": 208,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-06T17:04:41.064Z",
+  "updatedBy": "designer@veyo.local"
+}

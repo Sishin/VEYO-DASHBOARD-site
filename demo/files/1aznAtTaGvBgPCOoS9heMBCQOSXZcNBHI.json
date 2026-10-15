@@ -1,0 +1,196 @@
+{
+  "id": "tpl_untitled_template_4",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Life story",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 640,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:mem_yjkixmab0l"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 640,
+      "w": 1080,
+      "h": 640,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1BW4HS3chjwAwjg1kenL7g7wVw3ygQygK"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 1280,
+      "w": 1080,
+      "h": 640,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1hPvbwFJC9KuXIP1fMuGzEuwob5UYhAl3",
+      "sampleTransform": {
+        "scale": 1.09,
+        "offsetX": -0.006521867455680098,
+        "offsetY": -0.06053108232303046,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "seperator_paper_white",
+      "type": "image",
+      "name": "Seperator_paper_white.png",
+      "asset": "drive:1sARzqOjuJMz5a_jXwbGom3sJy_X7PE7j",
+      "fit": "contain",
+      "x": 437,
+      "y": 82,
+      "w": 206,
+      "h": 1116,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_paper_white_copy",
+      "type": "image",
+      "name": "Seperator_paper_white.png",
+      "asset": "drive:1sARzqOjuJMz5a_jXwbGom3sJy_X7PE7j",
+      "fit": "contain",
+      "x": 437,
+      "y": 722,
+      "w": 206,
+      "h": 1116,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 408,
+      "y": 784,
+      "w": 265,
+      "h": 353,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 264.99931820296655,
+          "h": 353.3324242706221,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 0,
+          "y": 0,
+          "w": 264.99931820296655,
+          "h": 353.3324242706221,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1s_n4qFdQZje0Crexhe-hBV3ba3pEPav5",
+          "sampleTransform": {
+            "scale": 1,
+            "offsetX": -0.12738817911893557,
+            "offsetY": 0,
+            "rotation": 0
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-04T05:46:26.698Z",
+  "updatedBy": "designer@veyo.local"
+}

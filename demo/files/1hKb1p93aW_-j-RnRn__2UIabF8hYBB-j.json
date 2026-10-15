@@ -1,0 +1,1067 @@
+{
+  "id": "tpl_untitled_template_20",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Postcard from India",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Ha5uY3kA4Yj7ZcwByTt6MV7ROaDiFn7D"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:176KGhmnk0gDVVSgrxX8iJOLZ1-7mS9i8"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1X9KuLv35bETVF0dg5Fu3r_iVqlojihwt"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1UDJ1JcIUQxuCsafR6ygHzfKscawtvPl1"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:mem_xndgn9krie"
+    },
+    {
+      "id": "sticker_postcover_2",
+      "type": "image",
+      "name": "sticker_postcover_2.png",
+      "asset": "drive:1jRHPmL8ZRccJBsV6cH0KayOPlubGAT0F",
+      "fit": "contain",
+      "x": 138,
+      "y": 373,
+      "w": 805,
+      "h": 604,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Your pink walls, colourful streets, and timeless charm made this trip special.\nUntil we meet again.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "color": "#44321D",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 40
+      },
+      "x": 564,
+      "y": 647,
+      "w": 332,
+      "h": 232,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_thin_portrait_white",
+      "type": "group",
+      "name": "Frame · Frame_stamp_thin_portrait_white.png",
+      "x": 188,
+      "y": 473,
+      "w": 327,
+      "h": 437,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_slot0",
+          "type": "image_slot",
+          "slotIndex": 6,
+          "x": 38.62947629780003,
+          "y": 45.57071032006098,
+          "w": 250.78980315212365,
+          "h": 345.8545299787409,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1540312876052948,
+            "y": -0.13176265270506107,
+            "w": 1.3068592057761732,
+            "h": 1.2635253054101223
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1Z0ToE83X05o2Xp1xNELfliizYxRLVuFH"
+        },
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_png",
+          "type": "image",
+          "name": "Frame_stamp_thin_portrait_white.png",
+          "asset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 327.7469629641471,
+          "h": 436.99595061886293,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Dear Jaipur,\nyour pink walls and colourful streets made this trip special. ❤️",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "color": "#44321D",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 40
+      },
+      "x": 1644,
+      "y": 647,
+      "w": 332,
+      "h": 232,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "sticker_postcover_2_copy",
+      "type": "image",
+      "name": "sticker_postcover_2.png",
+      "asset": "drive:1jRHPmL8ZRccJBsV6cH0KayOPlubGAT0F",
+      "fit": "contain",
+      "x": 1218,
+      "y": 373,
+      "w": 805,
+      "h": 604,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_thin_portrait_white_copy",
+      "type": "group",
+      "name": "Frame · Frame_stamp_thin_portrait_white.png",
+      "x": 1268,
+      "y": 473,
+      "w": 327,
+      "h": 437,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 7,
+          "x": 38.62947629780003,
+          "y": 45.57071032006098,
+          "w": 250.78980315212365,
+          "h": 345.8545299787409,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1540312876052948,
+            "y": -0.13176265270506107,
+            "w": 1.3068592057761732,
+            "h": 1.2635253054101223
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1aKHJ_Y_S_1ApiEq0tHMdEWZ4Ayy9xNUl"
+        },
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_png_copy",
+          "type": "image",
+          "name": "Frame_stamp_thin_portrait_white.png",
+          "asset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 327.7469629641471,
+          "h": 436.99595061886293,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Centuries later, and you still know how to leave people speechless.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "color": "#44321D",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 40
+      },
+      "x": 1644,
+      "y": 647,
+      "w": 332,
+      "h": 232,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "Dear Taj Mahal,\nYour beauty truly deserves all the stories told about you. ",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "color": "#44321D",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 40
+      },
+      "x": 2724,
+      "y": 664,
+      "w": 332,
+      "h": 232,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "sticker_postcover_2_copy_2",
+      "type": "image",
+      "name": "sticker_postcover_2.png",
+      "asset": "drive:1jRHPmL8ZRccJBsV6cH0KayOPlubGAT0F",
+      "fit": "contain",
+      "x": 2298,
+      "y": 373,
+      "w": 805,
+      "h": 604,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_thin_portrait_white_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_stamp_thin_portrait_white.png",
+      "x": 2348,
+      "y": 473,
+      "w": 327,
+      "h": 437,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 8,
+          "x": 38.62947629780003,
+          "y": 45.57071032006098,
+          "w": 250.78980315212365,
+          "h": 345.8545299787409,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1540312876052948,
+            "y": -0.13176265270506107,
+            "w": 1.3068592057761732,
+            "h": 1.2635253054101223
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1uG-Jub6QCmSIZtceRQq6nin4OJcd9laA"
+        },
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_png_copy_2",
+          "type": "image",
+          "name": "Frame_stamp_thin_portrait_white.png",
+          "asset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 327.7469629641471,
+          "h": 436.99595061886293,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "Sun-kissed mornings, golden sunsets, and memories made along the coast.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "color": "#44321D",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 40
+      },
+      "x": 2724,
+      "y": 647,
+      "w": 332,
+      "h": 232,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "sticker_postcover_2_copy_3",
+      "type": "image",
+      "name": "sticker_postcover_2.png",
+      "asset": "drive:1jRHPmL8ZRccJBsV6cH0KayOPlubGAT0F",
+      "fit": "contain",
+      "x": 3378,
+      "y": 379,
+      "w": 805,
+      "h": 604,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "Your peaceful landscapes and timeless charm made this trip one to remember.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "color": "#44321D",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 40
+      },
+      "x": 3804,
+      "y": 653,
+      "w": 332,
+      "h": 232,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_thin_portrait_white_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_stamp_thin_portrait_white.png",
+      "x": 3428,
+      "y": 479,
+      "w": 327,
+      "h": 437,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 9,
+          "x": 38.62947629780003,
+          "y": 45.57071032006098,
+          "w": 250.78980315212365,
+          "h": 345.8545299787409,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1540312876052948,
+            "y": -0.13176265270506107,
+            "w": 1.3068592057761732,
+            "h": 1.2635253054101223
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1m_6UHUtph1ldKoaGiQcSW75bQxWGySFl",
+          "sampleTransform": {
+            "scale": 1.6041778456155982,
+            "offsetX": 0,
+            "offsetY": -0.15349267224780264,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_png_copy_3",
+          "type": "image",
+          "name": "Frame_stamp_thin_portrait_white.png",
+          "asset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 327.7469629641471,
+          "h": 436.99595061886293,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "sticker_postcover_2_copy_4",
+      "type": "image",
+      "name": "sticker_postcover_2.png",
+      "asset": "drive:1jRHPmL8ZRccJBsV6cH0KayOPlubGAT0F",
+      "fit": "contain",
+      "x": 4458,
+      "y": 379,
+      "w": 805,
+      "h": 604,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_thin_portrait_white_copy_4",
+      "type": "group",
+      "name": "Frame · Frame_stamp_thin_portrait_white.png",
+      "x": 4508,
+      "y": 479,
+      "w": 327,
+      "h": 437,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_slot0_copy_4",
+          "type": "image_slot",
+          "slotIndex": 5,
+          "x": 38.62947629780003,
+          "y": 45.57071032006098,
+          "w": 250.78980315212365,
+          "h": 345.8545299787409,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1540312876052948,
+            "y": -0.13176265270506107,
+            "w": 1.3068592057761732,
+            "h": 1.2635253054101223
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1zJZcgIdcseug43_eaEL4qqoQ1gxVFbla",
+          "sampleTransform": {
+            "scale": 1.18,
+            "offsetX": 0.044152475066116637,
+            "offsetY": -0.09,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_stamp_thin_portrait_white_png_copy_4",
+          "type": "image",
+          "name": "Frame_stamp_thin_portrait_white.png",
+          "asset": "drive:1ZlWMxYQXkFil1LFWB_AC73fB5u80641q",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 327.7469629641471,
+          "h": 436.99595061886293,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "Warm sunsets, grand architecture, and slow moments around the city.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.35,
+        "letterSpacing": 0,
+        "color": "#44321D",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none",
+        "fontSize": 40
+      },
+      "x": 4884,
+      "y": 653,
+      "w": 332,
+      "h": 232,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2",
+      "type": "text",
+      "content": "Jaipur",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#331706",
+        "align": "center",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 205,
+      "y": 423,
+      "w": 294,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy",
+      "type": "text",
+      "content": "Taj Mahal",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#331706",
+        "align": "center",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 1285,
+      "y": 423,
+      "w": 294,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_2",
+      "type": "text",
+      "content": "Goa",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#331706",
+        "align": "center",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 2365,
+      "y": 423,
+      "w": 294,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_3",
+      "type": "text",
+      "content": "Kerala",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#331706",
+        "align": "center",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 3445,
+      "y": 423,
+      "w": 294,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_4",
+      "type": "text",
+      "content": "Mysore",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#331706",
+        "align": "center",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 4525,
+      "y": 423,
+      "w": 294,
+      "h": 60,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_wave_white",
+      "type": "image",
+      "name": "Seperator_wave_white.png",
+      "asset": "drive:1uxXzaDDbTmpY1kTVP-Vg68H5qA9n8bOQ",
+      "fit": "contain",
+      "x": 979,
+      "y": -308,
+      "w": 203,
+      "h": 1099,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_wave_white_copy",
+      "type": "image",
+      "name": "Seperator_wave_white.png",
+      "asset": "drive:1uxXzaDDbTmpY1kTVP-Vg68H5qA9n8bOQ",
+      "fit": "contain",
+      "x": 2059,
+      "y": 588,
+      "w": 203,
+      "h": 1099,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_wave_white_copy_2",
+      "type": "image",
+      "name": "Seperator_wave_white.png",
+      "asset": "drive:1uxXzaDDbTmpY1kTVP-Vg68H5qA9n8bOQ",
+      "fit": "contain",
+      "x": 3139,
+      "y": -308,
+      "w": 203,
+      "h": 1099,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_wave_white_copy_3",
+      "type": "image",
+      "name": "Seperator_wave_white.png",
+      "asset": "drive:1uxXzaDDbTmpY1kTVP-Vg68H5qA9n8bOQ",
+      "fit": "contain",
+      "x": 4219,
+      "y": 588,
+      "w": 203,
+      "h": 1099,
+      "rotation": -90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "drive:1-_EcWrXWP_qRF1RS3iew6YdWyn2DTtxS",
+      "fit": "contain",
+      "x": 456,
+      "y": 373,
+      "w": 150,
+      "h": 55,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking_copy",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "drive:1-_EcWrXWP_qRF1RS3iew6YdWyn2DTtxS",
+      "fit": "contain",
+      "x": 1545,
+      "y": 379,
+      "w": 150,
+      "h": 55,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking_copy_2",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "drive:1-_EcWrXWP_qRF1RS3iew6YdWyn2DTtxS",
+      "fit": "contain",
+      "x": 2625,
+      "y": 373,
+      "w": 150,
+      "h": 55,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking_copy_3",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "drive:1-_EcWrXWP_qRF1RS3iew6YdWyn2DTtxS",
+      "fit": "contain",
+      "x": 3705,
+      "y": 379,
+      "w": 150,
+      "h": 55,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking_copy_4",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "drive:1-_EcWrXWP_qRF1RS3iew6YdWyn2DTtxS",
+      "fit": "contain",
+      "x": 4786,
+      "y": 379,
+      "w": 150,
+      "h": 55,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-06T07:58:03.550Z",
+  "updatedBy": "designer@veyo.local"
+}

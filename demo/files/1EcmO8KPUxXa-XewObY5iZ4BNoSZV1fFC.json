@@ -1,0 +1,320 @@
+{
+  "id": "tpl_british_autumn",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "British Autumn",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 974,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1rZ9j0wE7u1Y393qoce2vVcxMq_dirmem"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 974,
+      "y": 0,
+      "w": 646,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:mem_ziwg38hp5s"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1UcAG-gKhBo_BNw_CK9Sodjjnae3koXbk",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.19322937163932338,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 450,
+      "w": 1080,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1rQW8TsSBFJx4_zyrBH-zGGfWQvr5SvEM"
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 3674,
+      "y": 0,
+      "w": 646,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1wRJnntzjgbzZpE7scQLltDJTQNSyyiRa"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 900,
+      "w": 1080,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1RMKfMz-ukkChyq8YyQlynhA6EcNliBT8"
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 450,
+      "w": 1080,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:17W0cD2Dbi28fFmeAenOG9iFh_c9yO-vy"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "British autumn, 2026",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 187,
+      "y": 913,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Chasing autumn\nthrough Scotland",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1723,
+      "y": 583,
+      "w": 305,
+      "h": 184,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "A little pumpkin magic in the heart of autumn",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2424,
+      "y": 1033,
+      "w": 553,
+      "h": 184,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "Nature painted\nthis perfectly",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3319,
+      "y": 583,
+      "w": 305,
+      "h": 184,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "Somewhere between the mountains and the clouds",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4584,
+      "y": 133,
+      "w": 553,
+      "h": 184,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-04T19:54:41.000Z",
+  "updatedBy": "designer@veyo.local"
+}

@@ -1,0 +1,291 @@
+{
+  "id": "tpl_beach_story",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "A little june magic",
+    "tags": [
+      "travel",
+      "beach",
+      "story"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1920,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1MvJjXC68hS3Ok1U-M41VljwoepSk_J18",
+      "sampleTransform": {
+        "scale": 1.43,
+        "offsetX": -0.29922808580123206,
+        "offsetY": -0.21499999999999997,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "frame_frame_kodak_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 455,
+      "y": 1130,
+      "w": 864,
+      "h": 828,
+      "rotation": 12.37,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 70.14519906323174,
+          "y": 63.40046838407508,
+          "w": 723.7096018735353,
+          "h": 706.8477751756456,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1NXcsHGDXIoKoGlUP11NewkJsdAblBmiJ"
+        },
+        {
+          "id": "frame_frame_kodak_png_copy_2",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 863.9999999999989,
+          "h": 828.0000000000018,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_kodak",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 380,
+      "y": 107,
+      "w": 864,
+      "h": 828,
+      "rotation": 12.37,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 70.14519906323174,
+          "y": 63.40046838407508,
+          "w": 723.7096018735353,
+          "h": 706.8477751756456,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1e4LSo0ZMu9e1g0kc43qv7sCFMO53sPu5"
+        },
+        {
+          "id": "frame_frame_kodak_png",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 863.9999999999989,
+          "h": 828.0000000000018,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_kodak_copy",
+      "type": "group",
+      "name": "Frame · Frame_kodak.png",
+      "x": 255,
+      "y": 521,
+      "w": 945,
+      "h": 902,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_kodak_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 76.75351852234681,
+          "y": 69.0644523034878,
+          "w": 791.8896670622897,
+          "h": 769.9951703622894,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.09692451071761417,
+            "y": -0.08969465648854963,
+            "w": 1.1938490214352284,
+            "h": 1.1713979007633588
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:16lVmsgqUfoCo8QwBEOr3Sf8S3Do8m4pn"
+        },
+        {
+          "id": "frame_frame_kodak_png_copy",
+          "type": "image",
+          "name": "Frame_kodak.png",
+          "asset": "drive:1Y5JSfTFAk-RN5dmNTHKQU882otutkWbw",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 945.3967041069833,
+          "h": 901.9707261603107,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "A little June magic",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 543,
+      "y": 27,
+      "w": 600,
+      "h": 120,
+      "rotation": 12.23,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-14T07:21:37.226Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}
