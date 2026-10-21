@@ -1,0 +1,158 @@
+{
+  "id": "tpl_untitled_template_34",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Beach water",
+    "tags": [
+      "beach",
+      "water",
+      "wave",
+      "story",
+      "travel"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 640,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1fU4b1sSMcgbq2K6c5XiP4n5Io6YBu3On"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 640,
+      "w": 1080,
+      "h": 640,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ceuAq8dIdl5TyzAjcrk5ED18dGRT993P",
+      "sampleTransform": {
+        "scale": 1.21,
+        "offsetX": 0.10499999999999998,
+        "offsetY": -0.07214428857715448,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 1280,
+      "w": 1080,
+      "h": 640,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1zsJnaCXqllWoZe74Qp6vGWNYfaV5egSe",
+      "sampleTransform": {
+        "scale": 1.31,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "sticker_beach_water",
+      "type": "image",
+      "name": "sticker_beach_water.png",
+      "asset": "drive:1UK4J1Nk-iGUWRcgHQ01aJpwPNW921Hap",
+      "fit": "contain",
+      "x": -254,
+      "y": -75,
+      "w": 1165,
+      "h": 2071,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Salty air\nlasting memories.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 661,
+      "y": 1600,
+      "w": 419,
+      "h": 197,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-17T10:45:28.714Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

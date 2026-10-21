@@ -1,0 +1,571 @@
+{
+  "id": "tpl_untitled_template_42",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Family 14",
+    "tags": [
+      "family",
+      "lifestyle",
+      "portrait",
+      "post"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ThSzps4yMfCcrj6hJg7PmlxEaEOv2ANs"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 0,
+      "w": 864,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1qbPd4q5bI6hicJ6OAx-6Z8RACOoUQ20t",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": -0.05880334208952286,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1w8mgXcZJMBdm71QAxdkA-4aQKB9f6ZrL",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": -0.08704813220994304,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 270,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:12xmXX9YmMq9ZVVmOxh2lPZq0S1VgFEyH"
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 810,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1IOB2Q1gII-PUcaROdRT4ZpSFQ3dV7qeN"
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 540,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1cP1Uvt7s7hFlh6hr6lrxP284o35kYVgA"
+    },
+    {
+      "id": "image_slot_copy_9",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 810,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1IthMc0iuy2sZCHFmURFU83AnXr6GsoXe"
+    },
+    {
+      "id": "image_slot_copy_10",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 540,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1G0OzfwuyukKcTlckulvXRTF7R-1KShry"
+    },
+    {
+      "id": "image_slot_copy_11",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 270,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1YUh1TUlTloE7OObjBZcECxLG77rPFQIo",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.034437211760014935,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_12",
+      "type": "image_slot",
+      "slotIndex": 12,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1E4H87gQGfzMhaJsSSB8OIUx6Zycx0x_I",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.10155615424493344,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "shape",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 0,
+      "y": 675,
+      "w": 1080,
+      "h": 3,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape_copy",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 0,
+      "y": 1347,
+      "w": 1080,
+      "h": 3,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape_copy_2",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": -65,
+      "y": 1012,
+      "w": 670,
+      "h": 3,
+      "rotation": 90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape_copy_3",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 205,
+      "y": 1012,
+      "w": 670,
+      "h": 3,
+      "rotation": 90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape_copy_4",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": -333,
+      "y": 1009,
+      "w": 670,
+      "h": 3,
+      "rotation": 90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape_copy_5",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 475,
+      "y": 1012,
+      "w": 670,
+      "h": 3,
+      "rotation": 90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape_copy_6",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 744,
+      "y": 1014,
+      "w": 670,
+      "h": 3,
+      "rotation": 90,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape_copy_7",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FFFFFF",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 4,
+      "y": 1012,
+      "w": 1080,
+      "h": 3,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Family",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 44,
+      "y": 515,
+      "w": 1034,
+      "h": 68,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "14 photos",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 45,
+      "y": 570,
+      "w": 1034,
+      "h": 68,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 13,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1944,
+      "y": -3,
+      "w": 864,
+      "h": 1354,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1sY3HdXCZfZ6Us5AesVLe0tZC3sf010uS"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2808,
+      "y": -4,
+      "w": 864,
+      "h": 1354,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1NBq2FkGiVzCDbdhjr1OwQP91hGxLwanL"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3672,
+      "y": -4,
+      "w": 864,
+      "h": 1354,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Ee7WCD5zZaCTV7iO8ugyij-k2Wq3whth"
+    },
+    {
+      "id": "image_slot_copy_13",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4536,
+      "y": -4,
+      "w": 864,
+      "h": 1354,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:14_FP2N50LGB7bdjCsDiqVkd7O5rjPQ_5",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.06649352070364448,
+        "offsetY": -8.396369107948009e-17,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "travel_instax_camera",
+      "type": "image",
+      "name": "travel_Instax_camera.png",
+      "asset": "drive:16u8Twyt2Py1vE-2bNMWNVBV0z80C199T",
+      "fit": "contain",
+      "x": 217,
+      "y": 573,
+      "w": 109,
+      "h": 63,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-20T08:11:14.812Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

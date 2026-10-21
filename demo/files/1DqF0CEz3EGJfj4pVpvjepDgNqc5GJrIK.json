@@ -1,0 +1,212 @@
+{
+  "id": "tpl_untitled_template_8",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "My golden hour",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 3,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 3240,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1k-D4Ag6qPFy_hw72OZHpX8Io-BjKe-Pr",
+      "sampleTransform": {
+        "scale": 1.06,
+        "offsetX": 0.025457310552617175,
+        "offsetY": 0.8014011543762595,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1407,
+      "h": 409,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Xrocc9Iaf7GyjZW5xraSxymb0cnCpggX",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.5277960942289314,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 941,
+      "w": 1407,
+      "h": 409,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1zObu_oHkJECp0apwGZgqWGlcUUUi3ki8"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 1833,
+      "y": 0,
+      "w": 1407,
+      "h": 409,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1LtnJzoskGcP7rnCnxOnP34zXS90niA8P",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.25190268133653543,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 1833,
+      "y": 941,
+      "w": 1407,
+      "h": 409,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1qycLZKHtDI6ll8tf0qiIXlTvcfdThRkz",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.5277960942289316,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "CHASING",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 20,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 240,
+      "y": 615,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "LIGHTS",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 20,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2400,
+      "y": 615,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-04T11:30:51.954Z",
+  "updatedBy": "designer@veyo.local"
+}

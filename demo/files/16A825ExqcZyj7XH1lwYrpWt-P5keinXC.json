@@ -1,0 +1,236 @@
+{
+  "id": "tpl_untitled_template_2",
+  "schemaVersion": 1,
+  "status": "draft",
+  "meta": {
+    "name": "Singapore",
+    "tags": [],
+    "premium": false,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 6,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1120,
+      "y": 40,
+      "w": 581,
+      "h": 416,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1GeTvIVTQm3k12_dlIIqGAd54HmtH7ifO"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 1741,
+      "y": 40,
+      "w": 379,
+      "h": 416,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Vq7ufLNaTZiJmQHB4JcyYx4emgZcsTQX"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 1120,
+      "y": 496,
+      "w": 1000,
+      "h": 814,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Caw1Lc_R3XzWc8-87kADxl9yChfxi082"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 40,
+      "y": 40,
+      "w": 1000,
+      "h": 1270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:10rCj250g1o4ltsy6dxlTreuKjYuUZiHo"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Singapore 2026",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 72,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 111,
+      "y": 1146,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 2205,
+      "y": 40,
+      "w": 500,
+      "h": 1270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1vBlWJ71Wr8WKrwrkFjumCR5ciw663Fmr",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.34812392426850247,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 2740,
+      "y": 40,
+      "w": 460,
+      "h": 615,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1NzuNpaC-4YpTRkvTueNoTPq27r-H3Q7-"
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "x": 2740,
+      "y": 695,
+      "w": 460,
+      "h": 615,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1UR4l5Uy3ubYefJJ_noI-n3Ky-fBPEX-f"
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "x": 3280,
+      "y": 40,
+      "w": 2080,
+      "h": 1270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1s9-F-BeyAE52ciEN6ZQVIfe62vJ0ohfW"
+    },
+    {
+      "id": "image_slot_copy_10",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "x": 5440,
+      "y": 40,
+      "w": 1000,
+      "h": 1270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1pmROCqTWgQNojS5u9V5WqGTOSL6SIA8b"
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-04T04:18:55.468Z",
+  "updatedBy": "designer@veyo.local"
+}

@@ -1,0 +1,377 @@
+{
+  "id": "tpl_untitled_template_43",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Unhurried",
+    "tags": [
+      "unhurried",
+      "calm",
+      "friends",
+      "lifestyle",
+      "landscape"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1920,
+      "h": 1080
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 1920,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1qaNlV9J3jM_HJoWsU-RMBJnmc0xR9bVN"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1920,
+      "y": 0,
+      "w": 3840,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1qFJxAynadMma7bDXJIe1Zh8tBBcwXEpw"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 5760,
+      "y": 0,
+      "w": 960,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:16U6mMX2sQM3QmxUspftSx596zbEWp6uj"
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 187,
+      "y": 178,
+      "w": 462,
+      "h": 322,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1tsxXs6erncYlGS5PSilhpWJVpzTI8avu"
+    },
+    {
+      "id": "image_slot_2_copy",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 729,
+      "y": 178,
+      "w": 462,
+      "h": 322,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1iCxHm9p9W8j7t3hE_oEdVVoMH7NXqvSx"
+    },
+    {
+      "id": "image_slot_2_copy_2",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1271,
+      "y": 178,
+      "w": 462,
+      "h": 322,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1XAr4EVXI1DFsNqyWowqQQ4Vz9v8FyQ85"
+    },
+    {
+      "id": "image_slot_2_copy_3",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 187,
+      "y": 580,
+      "w": 462,
+      "h": 322,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1vZ6iomHypFjCYezJ9qdhuCBkv4zzLF63"
+    },
+    {
+      "id": "image_slot_2_copy_4",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 729,
+      "y": 580,
+      "w": 462,
+      "h": 322,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1-P1UVCJ84AGT58I386DdXUHXcv6LnJ2B"
+    },
+    {
+      "id": "image_slot_2_copy_5",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1271,
+      "y": 580,
+      "w": 462,
+      "h": 322,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1yGvxulVQUbLioEn3X7Y6WIJYmOh8CyLZ"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "unhurried",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Allison",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 300,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFB22E",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 0,
+      "y": 368,
+      "w": 1920,
+      "h": 264,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2_copy_6",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2121,
+      "y": 178,
+      "w": 1093,
+      "h": 724,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1J8webZLN5Oczt9qq_gRS9xFZSzPOAdiE",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.022872827081427266,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2_copy_7",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3294,
+      "y": 178,
+      "w": 1093,
+      "h": 724,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1zNsO808_K2cS6eby9emjDjfShDqvCVkW"
+    },
+    {
+      "id": "image_slot_2_copy_8",
+      "type": "image_slot",
+      "slotIndex": 12,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4467,
+      "y": 178,
+      "w": 1093,
+      "h": 724,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:19xLM3HsQPc_s9GzbObe8Ngb_ogNva38r"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 13,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 6720,
+      "y": 0,
+      "w": 960,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1g2gzRTdvNhNRm12LUDk013MJVdZofclk"
+    },
+    {
+      "id": "image_slot_2_copy_9",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 6107,
+      "y": 178,
+      "w": 1093,
+      "h": 724,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "stroke": "#FFFFFF",
+      "strokeWidth": 8,
+      "sampleAsset": "drive:1JXwsffjlBC-8cWJJCwxNMDsmMqvFotYw"
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-20T05:31:50.084Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

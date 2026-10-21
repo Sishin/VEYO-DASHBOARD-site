@@ -1,0 +1,348 @@
+{
+  "id": "tpl_travel",
+  "schemaVersion": 1,
+  "status": "archived",
+  "meta": {
+    "name": "Travel",
+    "tags": [],
+    "premium": false,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "paper_map_vintage",
+      "type": "image",
+      "name": "paper_map_vintage.jpg",
+      "asset": "drive:1ULtIdkUrBGsF4HwneRjsKgob0TJXb66K",
+      "fit": "cover",
+      "x": 0,
+      "y": 0,
+      "w": 4320,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "bougainvillea_corner",
+      "type": "image",
+      "name": "bougainvillea_corner.png",
+      "asset": "drive:1mk3sfdVtGgEdolgw-mp8coFukpnYglNR",
+      "fit": "contain",
+      "x": -36,
+      "y": -36,
+      "w": 791,
+      "h": 810,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_earth",
+      "type": "image",
+      "name": "generic_earth.png",
+      "asset": "drive:10k2cPn38DuluhCAIkTak1r3oJNIaDBqD",
+      "fit": "contain",
+      "x": 4041,
+      "y": 0,
+      "w": 320,
+      "h": 183,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "generic_blue_kite",
+      "type": "image",
+      "name": "generic_blue_kite.png",
+      "asset": "drive:1ueijaTf3g6urDE7Y5XvnwgzIZJiwPrAR",
+      "fit": "contain",
+      "x": 1505,
+      "y": 1167,
+      "w": 320,
+      "h": 183,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_border_portrait_no_padding",
+      "type": "group",
+      "name": "Frame · Frame_paper_border_portrait_no_padding.png",
+      "x": 118,
+      "y": 270,
+      "w": 845,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_border_portrait_no_padding_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 120.8955223880597,
+          "y": 129.76119402985074,
+          "w": 604.4776119402985,
+          "h": 810.8059701492538,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:14RXRI1ASHMWExIT5h2OQ45idV5TIjuNs"
+        },
+        {
+          "id": "frame_frame_paper_border_portrait_no_padding_png",
+          "type": "image",
+          "name": "Frame_paper_border_portrait_no_padding.png",
+          "asset": "drive:1TjpJDkKDaWbzQD2gumLyv5nkejcpp8ED",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 845,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_wooden_portrait_no_padding",
+      "type": "group",
+      "name": "Frame · Frame_wooden_portrait_no_padding.png",
+      "x": 1681,
+      "y": 152,
+      "w": 862,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_wooden_portrait_no_padding_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 87.54414125200643,
+          "y": 81.47672552166934,
+          "w": 687.3515248796148,
+          "h": 914.446227929374,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1AbfIqCp4vLEsOWOxT6jMrkWhb-h5IW3d"
+        },
+        {
+          "id": "frame_frame_wooden_portrait_no_padding_png",
+          "type": "image",
+          "name": "Frame_wooden_portrait_no_padding.png",
+          "asset": "drive:1MpDEyQJXJ5dIXwCGpCjcD1KFxG-dZyHF",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 862,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "tape_masking",
+      "type": "image",
+      "name": "tape_masking.png",
+      "asset": "drive:1-_EcWrXWP_qRF1RS3iew6YdWyn2DTtxS",
+      "fit": "contain",
+      "x": 2000,
+      "y": 92,
+      "w": 320,
+      "h": 127,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_wooden_square",
+      "type": "group",
+      "name": "Frame · Frame_wooden_square.png",
+      "x": 2835,
+      "y": 92,
+      "w": 810,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_wooden_square_slot0",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 93.23204419889503,
+          "y": 228.232044198895,
+          "w": 623.5359116022099,
+          "h": 621.2983425414365,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1qdj20KXa59z-oBfsFCL8z4spG2Z9tdgm"
+        },
+        {
+          "id": "frame_frame_wooden_square_png",
+          "type": "image",
+          "name": "Frame_wooden_square.png",
+          "asset": "drive:1djSi-speHFJs-P5eBOF9GgbwEFltu0rC",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 810,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 3760,
+      "y": 57,
+      "w": 810,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 119.33701657458563,
+          "y": 143.95027624309392,
+          "w": 572.817679558011,
+          "h": 790.6077348066298,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1klr4NYmiVZhssxMAan_CSa_aPNJDIJ80"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 810,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-04T05:25:21.312Z",
+  "updatedBy": "designer@veyo.local"
+}

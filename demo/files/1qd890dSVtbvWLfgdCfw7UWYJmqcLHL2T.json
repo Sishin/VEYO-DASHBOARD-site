@@ -1,0 +1,229 @@
+{
+  "id": "tpl_untitled_template_46",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Coffee comes first",
+    "tags": [
+      "coffee",
+      "story",
+      "lifestyle"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": true,
+      "x": 0,
+      "y": 0,
+      "w": 540,
+      "h": 960,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:17Nskei5IhYZeJL8TaRgQY3IMH5kfsSa6"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": true,
+      "x": 540,
+      "y": 0,
+      "w": 540,
+      "h": 960,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1UIwHxNFQYbPFUlICFEKZria78L1XXpzV"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": true,
+      "x": 0,
+      "y": 960,
+      "w": 540,
+      "h": 960,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1gG3SP4li1MDf_0ekTC2Mgb7oUkP-ixD2"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": true,
+      "x": 540,
+      "y": 960,
+      "w": 540,
+      "h": 960,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1IQu8kXlS6h4r97zUCqN432tKP-lMuDv4"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Coffee",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 229,
+      "y": 824,
+      "w": 600,
+      "h": 120,
+      "rotation": -30.3,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "omes",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 253,
+      "y": 915,
+      "w": 600,
+      "h": 120,
+      "rotation": 11.26,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "first",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 226,
+      "y": 973,
+      "w": 600,
+      "h": 120,
+      "rotation": 11.18,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "9febef24-a2d3-4b30-a4c7-ac9685f7fc37",
+      "type": "lottie",
+      "name": "9febef24-a2d3-4b30-a4c7-ac9685f7fc37.json",
+      "asset": "drive:1CWQ208CViitvM5CUCkwxQxDshvbbshfI",
+      "loop": true,
+      "x": 565,
+      "y": 821,
+      "w": 152,
+      "h": 152,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-21T04:25:26.512Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

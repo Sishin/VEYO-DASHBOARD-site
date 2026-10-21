@@ -1,0 +1,636 @@
+{
+  "id": "tpl_untitled_template_35",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Mastering photography",
+    "tags": [
+      "photography",
+      "lifestyle",
+      "post"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1gDgJv2UhlCPggOShpzR5rcqRbwHYBnD7"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1pABrGLCP9PJS56oZwWyXmuyuRP32xbqD",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.05828257608979592,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1AV-2mJPmcKz4hDyleP5G-GWSZFlmWqJE",
+      "sampleTransform": {
+        "scale": 1.116278070458871,
+        "offsetX": -0.013893353596871227,
+        "offsetY": -0.1697668422753226,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1n5M-4hPykslxce5O1RO7DwIgwmIM9VW5",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.061130755826233736,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Mastering",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 0,
+      "y": 910,
+      "w": 1080,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Photography",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 100,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF957",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 0,
+      "y": 1000,
+      "w": 1080,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "In 4 steps",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 216,
+      "y": 1087,
+      "w": 243,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "with Sony A7RIII",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "right",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 622,
+      "y": 1087,
+      "w": 243,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1DPSnvC_1hhJwEyXVRrlMnA14beoGQRfI",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": -0.08683345998044506,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "Look",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 100,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF957",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1250,
+      "y": 271,
+      "w": 437,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "Step 1",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1250,
+      "y": 181,
+      "w": 437,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "Notice the light, colours and little details.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1250,
+      "y": 371,
+      "w": 353,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_7",
+      "type": "text",
+      "content": "Focus",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 100,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF957",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2319,
+      "y": 987,
+      "w": 466,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_8",
+      "type": "text",
+      "content": "Keep your subject clear and your frame simple.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2319,
+      "y": 1087,
+      "w": 179,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_9",
+      "type": "text",
+      "content": "Step 2",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2319,
+      "y": 897,
+      "w": 466,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_10",
+      "type": "text",
+      "content": "Step 3",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3820,
+      "y": 815,
+      "w": 500,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_11",
+      "type": "text",
+      "content": "PRESS",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 100,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF957",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3820,
+      "y": 905,
+      "w": 500,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_12",
+      "type": "text",
+      "content": "Capture the moment as it unfolds.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3820,
+      "y": 1005,
+      "w": 312,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_13",
+      "type": "text",
+      "content": "Experiment, practise and find your style.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4610,
+      "y": 276,
+      "w": 372,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_14",
+      "type": "text",
+      "content": "Repeat",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 100,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFF957",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4610,
+      "y": 176,
+      "w": 500,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_15",
+      "type": "text",
+      "content": "Step 4",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4610,
+      "y": 86,
+      "w": 500,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-17T10:35:47.161Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

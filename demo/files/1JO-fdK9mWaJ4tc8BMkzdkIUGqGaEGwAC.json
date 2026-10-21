@@ -1,0 +1,151 @@
+{
+  "id": "tpl_untitled_template_44",
+  "schemaVersion": 1,
+  "status": "archived",
+  "meta": {
+    "name": "Untitled template",
+    "tags": [],
+    "premium": false,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 114,
+      "y": 324,
+      "w": 852,
+      "h": 1271,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 100,
+      "sampleAsset": "drive:1_v05LNPGxVj4AaRRZoQTiRurzv5nufbN"
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": " Heaven",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1,
+        "letterSpacing": 40,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase",
+        "arc": 0
+      },
+      "x": 306,
+      "y": 1015,
+      "w": 457,
+      "h": 69,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "little",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 300,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 463,
+      "y": 841,
+      "w": 256,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "Food",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "FascinateInline",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 150,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 270,
+      "y": 907,
+      "w": 540,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-20T15:57:42.111Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

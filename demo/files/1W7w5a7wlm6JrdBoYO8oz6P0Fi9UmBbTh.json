@@ -1,0 +1,462 @@
+{
+  "id": "tpl_christmas_dump",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Home for the holidays",
+    "tags": [
+      "christmas",
+      "holidays",
+      "festive",
+      "family",
+      "post",
+      "portrait"
+    ],
+    "premium": false,
+    "category": "Festive"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1z5aRU6wYAfGW3ApwR9TTzS9V-YTVsytO",
+      "cornerRadius": [
+        0,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 360,
+      "y": 0,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1aQ2NBAZZSz5V-FFjbQIXDIfKMTsgb9f2",
+      "cornerRadius": [
+        0,
+        0,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 720,
+      "y": 0,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1uuNPyXuYK8OlF_e1MLGv-5_amy5j6lGb",
+      "cornerRadius": [
+        0,
+        0,
+        0,
+        100
+      ]
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 720,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1xsvfihUlZjMtKbcw5XQrReWP7pEI7cu8",
+      "cornerRadius": [
+        100,
+        0,
+        0,
+        100
+      ]
+    },
+    {
+      "id": "shape",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#78211e",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 1080,
+      "y": 0,
+      "w": 4320,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 450,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1DRaDQdss2S9OyKhyUiti6_noa6N9-N-A",
+      "cornerRadius": [
+        0,
+        100,
+        100,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 720,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1etwIpQn6U9z1FXrt2aPJUUQE5GHHdoCm",
+      "cornerRadius": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 360,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1zQyadxMBr2CaOJJLXzYJKHzzww_WskN_",
+      "cornerRadius": [
+        100,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 900,
+      "w": 360,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1DR3jQ7WH0-4t5JE3lcpGWtmQ-Bnf2iuw",
+      "cornerRadius": [
+        0,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1180,
+      "y": 150,
+      "w": 600,
+      "h": 1050,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:16L_YFROfDxvSYeL8muuFJLt0p23TSfBI",
+      "cornerRadius": 300
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Home for the\nholidays",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#78211e",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 360,
+      "y": 618,
+      "w": 360,
+      "h": 114,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2_copy",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1860,
+      "y": 150,
+      "w": 600,
+      "h": 1050,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Yqu4cCh2awwfpMHP7Y2z5Ze_jxSdNs-d",
+      "cornerRadius": 300
+    },
+    {
+      "id": "image_slot_2_copy_2",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2540,
+      "y": 150,
+      "w": 600,
+      "h": 1050,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1oWT6MTxvzSM7jIAluw3q6RX1SzhMg83N",
+      "cornerRadius": 300
+    },
+    {
+      "id": "christmas_cute_hot_chocolate",
+      "type": "image",
+      "name": "christmas_cute_hot_chocolate.png",
+      "asset": "drive:1DR-skevfEpJ5j-2zCmEFmKIas6VSVMh_",
+      "fit": "contain",
+      "x": 1715,
+      "y": 90,
+      "w": 220,
+      "h": 126,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_cute_reindeer",
+      "type": "image",
+      "name": "christmas_cute_reindeer.png",
+      "asset": "drive:1pfglD_NbICV8L4N4MPn4ZyA-wEtHgz5O",
+      "fit": "contain",
+      "x": 2389,
+      "y": 1105,
+      "w": 226,
+      "h": 129,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3335,
+      "y": 153,
+      "w": 891,
+      "h": 488,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 261,
+      "sampleAsset": "drive:1tjY3v01-j_QEiv4vNFnnJY7UW2-r3y0z"
+    },
+    {
+      "id": "image_slot_3_copy",
+      "type": "image_slot",
+      "slotIndex": 12,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3335,
+      "y": 712,
+      "w": 891,
+      "h": 488,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 261,
+      "sampleAsset": "drive:1qFMUVEVtkf2RZcj7FcB5pyUgM6d30_P1"
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Until Next Christmas 🎅",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 30,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0
+      },
+      "x": 4532,
+      "y": 584,
+      "w": 656,
+      "h": 114,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-20T12:04:40.239Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}
