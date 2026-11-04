@@ -1,0 +1,589 @@
+{
+  "id": "tpl_travel",
+  "schemaVersion": 1,
+  "status": "draft",
+  "meta": {
+    "name": "Travel",
+    "tags": [],
+    "premium": true,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "paper_map_vintage",
+      "type": "image",
+      "name": "paper_map_vintage.jpg",
+      "asset": "drive:1ULtIdkUrBGsF4HwneRjsKgob0TJXb66K",
+      "fit": "contain",
+      "x": 0,
+      "y": -1350,
+      "w": 3240,
+      "h": 4050,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:mem_1bezgr5vik"
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": -236,
+      "y": -299,
+      "w": 1461,
+      "h": 1948,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 215.3543191710757,
+          "y": 259.4951055961012,
+          "w": 1033.7007320211637,
+          "h": 1425.2062794397264,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_tlamdksf9o"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1461.7174413736764,
+          "h": 1946.8855590837024,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": -512,
+      "y": -244,
+      "w": 1149,
+      "h": 1533,
+      "rotation": -13.9,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 169.34916770410297,
+          "y": 204.27743354307475,
+          "w": 812.8760049796944,
+          "h": 1121.9382360396849,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_1bezgr5vik"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1149.457475791599,
+          "h": 1532.609967722136,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 1397,
+      "y": 399,
+      "w": 447,
+      "h": 597,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 65.99256152540316,
+          "y": 79.60352734001783,
+          "w": 316.76429532193526,
+          "h": 437.2007201057973,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_2oiq987x8t"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy_2",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 447.92451135367406,
+          "h": 597.2326818049006,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 2200,
+      "y": 25,
+      "w": 499,
+      "h": 669,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 73.5406111670487,
+          "y": 89.30248618784535,
+          "w": 352.9949336018338,
+          "h": 490.4696132596686,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_z1hq4vcm0m"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy_3",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 499.15689829634306,
+          "h": 670.0000000000002,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy_4",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 2701,
+      "y": 20,
+      "w": 499,
+      "h": 669,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy_4",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 73.5406111670487,
+          "y": 89.30248618784535,
+          "w": 352.9949336018338,
+          "h": 490.4696132596686,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_i18rft8crh"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy_4",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 499.15689829634306,
+          "h": 670.0000000000002,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy_5",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 2701,
+      "y": 661,
+      "w": 499,
+      "h": 669,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy_5",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 73.5406111670487,
+          "y": 89.30248618784535,
+          "w": 352.9949336018338,
+          "h": 490.4696132596686,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_2j54m39n9f"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy_5",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 499.15689829634306,
+          "h": 670.0000000000002,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy_6",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 2200,
+      "y": 661,
+      "w": 499,
+      "h": 669,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy_6",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 73.5406111670487,
+          "y": 89.30248618784535,
+          "w": 352.9949336018338,
+          "h": 490.4696132596686,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_c2jughz6mj"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy_6",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 499.15689829634306,
+          "h": 670.0000000000002,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "paper_map_vintage_copy",
+      "type": "image",
+      "name": "paper_map_vintage.jpg",
+      "asset": "drive:1ULtIdkUrBGsF4HwneRjsKgob0TJXb66K",
+      "fit": "contain",
+      "x": 3240,
+      "y": -1350,
+      "w": 3240,
+      "h": 4050,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:mem_tlamdksf9o"
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy_7",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 3392,
+      "y": 171,
+      "w": 777,
+      "h": 1037,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy_7",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 114.58722324749034,
+          "y": 138.22083804228578,
+          "w": 550.0186715879538,
+          "h": 759.1403540146263,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_avne0p86a9"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy_7",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 777.7607777923408,
+          "h": 1037.0143703897916,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_portrait_white_copy_8",
+      "type": "group",
+      "name": "Frame · Frame_stamp_portrait_white.png",
+      "x": 4320,
+      "y": -181,
+      "w": 1284,
+      "h": 1712,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_portrait_white_slot0_copy_8",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 189.25652076672495,
+          "y": 228.04808851824563,
+          "w": 908.4312996802801,
+          "h": 1252.4920923800014,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:mem_xopv8z4xc4"
+        },
+        {
+          "id": "frame_frame_stamp_portrait_white_png_copy_8",
+          "type": "image",
+          "name": "Frame_stamp_portrait_white.png",
+          "asset": "drive:1TB-tkrbYl2rfrqM7STRVn6PCSi0-T14p",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1284.5786347041455,
+          "h": 1710.9514620436253,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "travel_travel_dairy",
+      "type": "image",
+      "name": "travel_travel_dairy.png",
+      "asset": "drive:1uD_tRfhbLd-cbTiLCebqyxo2aSW1LF3i",
+      "fit": "contain",
+      "x": 495,
+      "y": 85,
+      "w": 473,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-02T15:28:35.850Z",
+  "updatedBy": "designer@demo.local"
+}

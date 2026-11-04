@@ -1,0 +1,302 @@
+{
+  "id": "tpl_untitled_template_29",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "A day in winter layers",
+    "tags": [
+      "lifestyle",
+      "winter",
+      "outfits",
+      "woman",
+      "post"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:13QtLJBMLpIjcNEricOvPn1uafL5giFt5",
+      "sampleTransform": {
+        "scale": 1.11,
+        "offsetX": 0,
+        "offsetY": -0.1660547472256474,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "A day in winter layers",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 150,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFE0CC",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 240,
+      "y": 0,
+      "w": 600,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1HPSPRxPjTb40S5_o8K3cwa923H_QWrjM"
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Faux fur",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFE0CC",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1849,
+      "y": 409,
+      "w": 311,
+      "h": 68,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1hJTwq0dO1-V7D1HC2LBNQf7MjXoJ3RyM",
+      "sampleTransform": {
+        "scale": 2.58,
+        "offsetX": 0.10757387382110774,
+        "offsetY": 0.6385029930027005,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Oval\nshades",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFE0CC",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2393,
+      "y": 158,
+      "w": 214,
+      "h": 128,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:120v-ho2zcmev1vnjT4k2aZE8DvmsYdIB"
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "Crop top",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFE0CC",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3469,
+      "y": 911,
+      "w": 311,
+      "h": 68,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1HcNJ6Mg8MS-AA7WJi_Fm4lt_x7zFVx11",
+      "sampleTransform": {
+        "scale": 2.04,
+        "offsetX": 0.062462249315481805,
+        "offsetY": -0.605189793367777,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "Wide-leg pants",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFE0CC",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4413,
+      "y": 1147,
+      "w": 311,
+      "h": 68,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-15T07:10:09.592Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

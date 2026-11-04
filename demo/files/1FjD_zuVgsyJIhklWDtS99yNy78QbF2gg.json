@@ -1,0 +1,119 @@
+{
+  "id": "tpl_untitled_template",
+  "schemaVersion": 1,
+  "status": "archived",
+  "meta": {
+    "name": "Untitled template",
+    "tags": [],
+    "premium": false,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 12,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "paper_map_vintage",
+      "type": "image",
+      "name": "paper_map_vintage.jpg",
+      "asset": "drive:1ULtIdkUrBGsF4HwneRjsKgob0TJXb66K",
+      "fit": "cover",
+      "x": 0,
+      "y": 0,
+      "w": 6249,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_cardboard_thin_border_portrait",
+      "type": "group",
+      "name": "Frame · Frame_cardboard_thin_border_portrait.png",
+      "x": 135,
+      "y": 171,
+      "w": 810,
+      "h": 1080,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_cardboard_thin_border_portrait_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 95.4696132596685,
+          "y": 90.99447513812154,
+          "w": 642.92817679558,
+          "h": 877.8729281767955,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1zD_sssiShJppH2BkWKE9Aq0qThrrA4wK",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.14849187935034805,
+            "y": -0.10365335598980459,
+            "w": 1.2598607888631093,
+            "h": 1.2302463891248938
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1ND6ze5Jck_4ITqwRCQ0vQunugYbPQgqJ"
+        },
+        {
+          "id": "frame_frame_cardboard_thin_border_portrait_png",
+          "type": "image",
+          "name": "Frame_cardboard_thin_border_portrait.png",
+          "asset": "drive:1zD_sssiShJppH2BkWKE9Aq0qThrrA4wK",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 810,
+          "h": 1080,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-12T17:56:20.339Z",
+  "updatedBy": "sishin.santhosh@gmail.com"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tpl_untitled_template_11",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Focus on me",
+    "tags": [],
+    "premium": false,
+    "category": "Wedding"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1920,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1UmrxPrlyhTTv9uuPm6QzB-ZQslz5Bmc9",
+      "sampleTransform": {
+        "scale": 1.39,
+        "offsetX": 0.1636684659554767,
+        "offsetY": -0.1840318269906343,
+        "rotation": 0
+      },
+      "blendMode": "multiply"
+    },
+    {
+      "id": "seperator_stamp_filled_portrait",
+      "type": "image",
+      "name": "Seperator_stamp_filled_portrait.png",
+      "asset": "drive:1PBZD5NwbFf6ys_1PGA5b36CC6RWAJ4xh",
+      "fit": "contain",
+      "x": 289,
+      "y": 265,
+      "w": 502,
+      "h": 670,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "blendMode": "multiply"
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-05T04:44:27.468Z",
+  "updatedBy": "designer@veyo.local"
+}

@@ -1,0 +1,581 @@
+{
+  "id": "tpl_untitled_template_22",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Green things lately",
+    "tags": [],
+    "premium": true,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1080
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "shape",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#005029",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 810,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1-xxNOkNWbGay70JdIQX3XGOTgpD22vHg",
+      "cornerRadius": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 270,
+      "y": 810,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1sV-bySCiwId9pASQTj7fhhQS2BuJRtjN"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 540,
+      "y": 810,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1xckVmgqZ20l7-mvYpS7fla-b3ZiBHurq"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 810,
+      "y": 810,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1CxnGHXNbALsZlWL8xMEas4MLBJmxQ5E4"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 810,
+      "y": 540,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Q5vx29g42XrOAYm4jA7MHdMVTfCwY1dV"
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 540,
+      "y": 540,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1y3vSEq7siG2Z4Ozer9ErcttNekDvx8XM"
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 270,
+      "y": 540,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1YxpLcZkNcGET8Fa6udcjMyOpuV_7Rrtx",
+      "cornerRadius": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "x": 540,
+      "y": 270,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1lh96-ZZ3E23lnukvyvjr9J8MKxcncea-",
+      "cornerRadius": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "x": 810,
+      "y": 270,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1rP0YiBIHWz5hpsJ6kQxDcWzbmbaeJ_K7"
+    },
+    {
+      "id": "image_slot_copy_9",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "x": 810,
+      "y": 0,
+      "w": 270,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1PR9qo_78xMter7RKRq67meN8qZlRn3Mh",
+      "cornerRadius": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Green things, lately",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 81,
+      "y": 75,
+      "w": 378,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1z_IzMPMdGxoYuSC1yok5ZRSluTmyk2KN",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -1.4372381729875003,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2_copy",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 270,
+      "w": 1080,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1HYVjUuX0RXDkOvxA1YWkCA5mhbkRYAkK",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.4258483475518519,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2_copy_2",
+      "type": "image_slot",
+      "slotIndex": 12,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 540,
+      "w": 1080,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:19Zm4gdcSdLcWqLfTEBIm7sbN1fDUGnkb",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.6315205551155086,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2_copy_3",
+      "type": "image_slot",
+      "slotIndex": 13,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 810,
+      "w": 1080,
+      "h": 270,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1iiIx3LJchL5GhcJ0WSZi-MFelkbVwnf4",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.08516966951037072,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 14,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 540,
+      "w": 1080,
+      "h": 540,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1XDqYq7zvTkdi74S_CpQcG2IpwcyQTUpP",
+      "sampleTransform": {
+        "scale": 1.38,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "shape_2",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#8CB200",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 540,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Green, slightly beat up",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 2511,
+      "y": 210,
+      "w": 378,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_4",
+      "type": "image_slot",
+      "slotIndex": 15,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 540,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1KmsvA2SP6sbKqEZyo5rKHVdIcKWk-v-z"
+    },
+    {
+      "id": "shape_3",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#495F4A",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 3780,
+      "y": 0,
+      "w": 540,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Found some green in me\n\n🙂",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 3861,
+      "y": 480,
+      "w": 378,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_5",
+      "type": "image_slot",
+      "slotIndex": 16,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 0,
+      "w": 1080,
+      "h": 1080,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ZBojV3PLVFhFIv-lgGtndwfxXAf24Sxv",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.25,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "What colour should I do next?",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 25,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 4595,
+      "y": 210,
+      "w": 531,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-19T18:49:25.602Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

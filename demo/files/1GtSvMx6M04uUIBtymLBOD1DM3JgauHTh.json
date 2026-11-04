@@ -1,0 +1,338 @@
+{
+  "id": "tpl_untitled_template_19",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Our tribe",
+    "tags": [],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:166kZZkH2xfH07-5-irH6haNYPXTP7aCE"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 450,
+      "w": 1080,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:17k6-vgE3qJ-L7eXqf23wdf6iPSVMuE-S",
+      "sampleTransform": {
+        "scale": 1.19,
+        "offsetX": 0.09500000000000001,
+        "offsetY": 0.3028533333333333,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1-zDbPe9jAkFXOgwql6IO5bk7bjria7Jp"
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1X7lJ7_6gT9MZCEpWnmQNVRnhffFCNysL",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.32641521254537115,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "frame_frame_hand_phone",
+      "type": "group",
+      "name": "Frame · Frame_hand_phone.png",
+      "x": 679,
+      "y": 95,
+      "w": 1882,
+      "h": 1255,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_hand_phone_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 314.84043054735497,
+          "y": 208.26020697684953,
+          "w": 1250.786301902138,
+          "h": 520.6505174421238,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:13tI4_afREK1bfHQVW3Z6drfS1w_-57h6",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.2517140058765916,
+            "y": -0.4,
+            "w": 1.504407443682664,
+            "h": 2.409411764705882
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1GPc4GBI9Ww9bb9OCvp4d5DZrAA84E-MW",
+          "sampleTransform": {
+            "scale": 1,
+            "offsetX": 0,
+            "offsetY": 0.10235115384634018,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_hand_phone_png",
+          "type": "image",
+          "name": "Frame_hand_phone.png",
+          "asset": "drive:13tI4_afREK1bfHQVW3Z6drfS1w_-57h6",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1881.692223037888,
+          "h": 1254.4614820252584,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 900,
+      "w": 1080,
+      "h": 450,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:19yaeBvqdrH1MRgPGLGep9Y7TUCU5n9_U",
+      "sampleTransform": {
+        "scale": 1.46,
+        "offsetX": 0.022773154363630543,
+        "offsetY": -0.06376483221816519,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1UwpPrUXkKGxDkmokWnRoUDT51_K7TBnT",
+      "sampleTransform": {
+        "scale": 1.11,
+        "offsetX": -0.03777315436363059,
+        "offsetY": -0.166,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Our tribe ❤️",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "MomoTrustDisplay",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 679,
+      "y": 900,
+      "w": 401,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 3507,
+      "y": 0,
+      "w": 546,
+      "h": 699,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0",
+          "type": "image_slot",
+          "slotIndex": 7,
+          "x": 76.24080290579587,
+          "y": 138.00550399403568,
+          "w": 394.23250616478,
+          "h": 354.66449453012666,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1-tICMTVBLoBpv6e_pt5tu5Y7idQ7UR4T",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1kuhitluPvd2xt_FbVFGyZ39Cfx1bO4Rq",
+          "sampleTransform": {
+            "scale": 2.72,
+            "offsetX": -0.48869863063952174,
+            "offsetY": 0.5432201105203922,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_instant_square_png",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "drive:1-tICMTVBLoBpv6e_pt5tu5Y7idQ7UR4T",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 546.0314118659635,
+          "h": 698.713181060712,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-06T03:40:34.632Z",
+  "updatedBy": "designer@veyo.local"
+}

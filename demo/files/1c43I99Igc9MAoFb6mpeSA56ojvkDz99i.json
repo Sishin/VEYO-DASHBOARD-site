@@ -1,0 +1,382 @@
+{
+  "id": "tpl_untitled_template_16",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Forever begins",
+    "tags": [],
+    "premium": false,
+    "category": "Wedding"
+  },
+  "canvas": {
+    "frameCount": 7,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#F9FBF8",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "background_red_velvet_copy_2",
+      "type": "image",
+      "name": "background_red_velvet.png",
+      "asset": "drive:1a6XV5slKhIFroZQqrdrrb_zWcp16WYVi",
+      "fit": "cover",
+      "x": 3240,
+      "y": 0,
+      "w": 1081,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "background_red_velvet",
+      "type": "image",
+      "name": "background_red_velvet.png",
+      "asset": "drive:1a6XV5slKhIFroZQqrdrrb_zWcp16WYVi",
+      "fit": "cover",
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 240,
+      "y": 300,
+      "w": 600,
+      "h": 750,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1k2q1xbwekTcfLDF0p1dtfHcrOLyyzrgl",
+      "cornerRadius": [
+        100,
+        0,
+        100,
+        0
+      ],
+      "sampleTransform": {
+        "scale": 1.2,
+        "offsetX": 0.05639913297772523,
+        "offsetY": 0.10527838155842066,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "stroke": "#FFFFFF",
+      "strokeWidth": 100,
+      "sampleAsset": "drive:1LveAVyCiTNrysaNnvckO3ZEsKBbzNebQ"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Forever begins\n",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 180,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": -171,
+      "y": 615,
+      "w": 1423,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 2280,
+      "y": 90,
+      "w": 840,
+      "h": 398,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1exQf6c6bUO4szKX9yU2uvYzSIlCAs4ob",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.18497851600212453,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 675,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:19QLPG1GsUVeAxef25pMeBMEgBfw7zXqu"
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Moments worth keeping",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 80,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#5C1120",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2160,
+      "y": 527,
+      "w": 1080,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 3444,
+      "y": 0,
+      "w": 673,
+      "h": 1050,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ZDgIaYzAiz7Yub6kNnoTbZkrZN54KXoY"
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "A thousand\nlittle moments",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 80,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3240,
+      "y": 1079,
+      "w": 1080,
+      "h": 271,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 4321,
+      "y": 0,
+      "w": 673,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1-tY5NSe28Emwq7pofN2pnurJfVeCar9Q"
+    },
+    {
+      "id": "background_red_velvet_copy",
+      "type": "image",
+      "name": "background_red_velvet.png",
+      "asset": "drive:1a6XV5slKhIFroZQqrdrrb_zWcp16WYVi",
+      "fit": "cover",
+      "x": 4994,
+      "y": 0,
+      "w": 1486,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 4727,
+      "y": 289,
+      "w": 673,
+      "h": 823,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1hScSJN_EknbFUnlJxD5DwfI-I1M1J0rE",
+      "sampleTransform": {
+        "scale": 1.39,
+        "offsetX": 0.0670420600032395,
+        "offsetY": -0.31203825715115857,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "x": 5502,
+      "y": 90,
+      "w": 876,
+      "h": 1163,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1_jlsgwfZ0SyzB28OmevhDkZMTupQ2eow"
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "Liam\nAmelia",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "PinyonScript",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 180,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#571422",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 6248,
+      "y": 423,
+      "w": 1544,
+      "h": 497,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-15T19:21:26.471Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

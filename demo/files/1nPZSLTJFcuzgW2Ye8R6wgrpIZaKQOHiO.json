@@ -1,0 +1,558 @@
+{
+  "id": "tpl_untitled_template_27",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Catch us somewhere along the way",
+    "tags": [
+      "travel",
+      "story",
+      "road trip"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "frame_frame_paper_filled_uneven_copy",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -117,
+      "y": -271,
+      "w": 1315,
+      "h": 877,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_png_copy",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1315.0559101328054,
+          "h": 876.7039400885361,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 0,
+          "y": 0,
+          "w": 1315.0559101328054,
+          "h": 876.7039400885361,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1Ypl_N9e_mXMsslpcpiwCGbCH9zOb0Bka"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_filled_uneven",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -117,
+      "y": 1384,
+      "w": 1315,
+      "h": 877,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_png",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1315.0559101328054,
+          "h": 876.7039400885361,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_slot0",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 0,
+          "y": 0,
+          "w": 1315.0559101328054,
+          "h": 876.7039400885361,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:10rb0R2mgpT_7XXMT48h1EbEOQLYTb62d"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_filled_uneven_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -117,
+      "y": 856,
+      "w": 1315,
+      "h": 877,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_png_copy_2",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1315.0559101328054,
+          "h": 876.7039400885361,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 0,
+          "y": 0,
+          "w": 1315.0559101328054,
+          "h": 876.7039400885361,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1hWWQs1F_i-aqZ1je7oPla9bGZnjktQMW"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_filled_uneven_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_uneven.png",
+      "x": -117,
+      "y": 312,
+      "w": 1317,
+      "h": 878,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_uneven_png_copy_3",
+          "type": "image",
+          "name": "Frame_paper_filled_uneven.png",
+          "asset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1316.6980624711136,
+          "h": 877.7987083140747,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_uneven_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 0,
+          "y": 0,
+          "w": 1316.6980624711136,
+          "h": 877.7987083140747,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1pA1SvM4O4UffvbYNqGRzX7WoF8sCJYC5",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1QT1IoOYl8CGGqbo3tL9RoYRgvlcy0JGB"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_path_dashed",
+      "type": "image",
+      "name": "Seperator_path_dashed.png",
+      "asset": "drive:1wlczNyNs4BFRlm3ohU0_AXJh6CZtzpsf",
+      "fit": "contain",
+      "x": 421,
+      "y": 124,
+      "w": 508,
+      "h": 1673,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "shape",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FF4D4D",
+      "strokeWidth": 0,
+      "cornerRadius": 150,
+      "x": 785,
+      "y": 751,
+      "w": 56,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2",
+      "type": "text",
+      "content": "Czechia",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 752,
+      "y": 192,
+      "w": 295,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "shape_copy",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FF4D4D",
+      "strokeWidth": 0,
+      "cornerRadius": 150,
+      "x": 675,
+      "y": 192,
+      "w": 56,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy",
+      "type": "text",
+      "content": "Germany",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "right",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 560,
+      "y": 751,
+      "w": 200,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "shape_copy_2",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FF4D4D",
+      "strokeWidth": 0,
+      "cornerRadius": 150,
+      "x": 520,
+      "y": 1356,
+      "w": 56,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_2",
+      "type": "text",
+      "content": "Austria",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 597,
+      "y": 1356,
+      "w": 200,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "shape_copy_3",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#FF4D4D",
+      "strokeWidth": 0,
+      "cornerRadius": 150,
+      "x": 900,
+      "y": 1767,
+      "w": 56,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_3",
+      "type": "text",
+      "content": "Slovakia",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "right",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 676,
+      "y": 1767,
+      "w": 200,
+      "h": 56,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "text_2_copy_4",
+      "type": "text",
+      "content": "Catch us somewhere along the way :)",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 40,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 126,
+      "y": 1504,
+      "w": 327,
+      "h": 213,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "shadow": {
+        "color": "rgba(0,0,0,0.25)",
+        "blur": 18,
+        "x": 0,
+        "y": 6
+      }
+    },
+    {
+      "id": "travel_orange_suitcase",
+      "type": "image",
+      "name": "travel_orange_suitcase.png",
+      "asset": "drive:120DrtWSoWb1W6f7XqFITraxpnO7dAsgH",
+      "fit": "contain",
+      "x": 81,
+      "y": 1434,
+      "w": 152,
+      "h": 87,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-15T07:14:22.163Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

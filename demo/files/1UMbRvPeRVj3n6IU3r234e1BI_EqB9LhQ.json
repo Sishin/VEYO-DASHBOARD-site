@@ -1,0 +1,693 @@
+{
+  "id": "tpl_untitled_template_41",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Somewhere far away we found our way home",
+    "tags": [
+      "travel",
+      "portrait",
+      "post",
+      "couple",
+      "tiles"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 6,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 0,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1YMFnDqqg3WQYgGfSbEFm8_xKddWH71ZG"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 540,
+      "y": 0,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1MuOQ5aEzkq4dX0WmGs8X-mqv7TmWJZuo"
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 270,
+      "y": 337,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1VGaMsS0KiZ5mr7yO-obgXKdbMzZXo4XT"
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 810,
+      "y": 337,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1UCO6oycwoCGj4KShpRjrfcdpXIJ7kt2h"
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 0,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1S_Vj0hJeU8yNplcebN8e5YtQn8SaKJxk"
+    },
+    {
+      "id": "image_slot_copy_10",
+      "type": "image_slot",
+      "slotIndex": 10,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 540,
+      "y": 675,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1J46v30i7YLWDB_VjgSr_mTuLV9K2VPCd"
+    },
+    {
+      "id": "image_slot_copy_13",
+      "type": "image_slot",
+      "slotIndex": 11,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 270,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ZIKtfM8TofoI6cbqwXpsm3yNYKcMKSHU"
+    },
+    {
+      "id": "image_slot_copy_15",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 810,
+      "y": 1012,
+      "w": 270,
+      "h": 338,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1gy52hCKGy8V6jeJkmTiN2TuA80MIY9O2"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "somewhere",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 270,
+      "y": 109,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "far",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 810,
+      "y": 109,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "away",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 0,
+      "y": 446,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "we",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 540,
+      "y": 446,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "found",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 270,
+      "y": 784,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "our",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 810,
+      "y": 784,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "way",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 0,
+      "y": 1121,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_7",
+      "type": "text",
+      "content": "home",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 540,
+      "y": 1121,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1NK0QmwCZVBNp-5foXP-EniVUaDg-t2vw",
+      "sampleTransform": {
+        "scale": 1.1,
+        "offsetX": 0.008834799388558766,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_8",
+      "type": "text",
+      "content": "between places",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 1485,
+      "y": 277,
+      "w": 270,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 2160,
+      "y": 0,
+      "w": 600,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:14Zp-RrwB35AWNtEY7_R66slLFpzzhpV1"
+    },
+    {
+      "id": "text_copy_9",
+      "type": "text",
+      "content": "soft endings",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 2760,
+      "y": 615,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 750,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1_ofWg4ZZZsAuhPqIRH8T55h2NJ8KfU_s",
+      "sampleTransform": {
+        "scale": 1.14,
+        "offsetX": -0.03162180546774883,
+        "offsetY": -0.048646001264420424,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_10",
+      "type": "text",
+      "content": "two nomads",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 3540,
+      "y": 953,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3_copy",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "allowVideo": false,
+      "x": 4800,
+      "y": 0,
+      "w": 600,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1J1qxEiYFvsLoAy6OZFdJXl8sAWzDMl1J",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.25,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "text_copy_11",
+      "type": "text",
+      "content": "somewhre salty",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 4320,
+      "y": 615,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_12",
+      "type": "text",
+      "content": "until life brings us back ❤️",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none",
+        "arc": 0,
+        "fontSize": 25
+      },
+      "x": 5700,
+      "y": 615,
+      "w": 480,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-19T18:31:12.828Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

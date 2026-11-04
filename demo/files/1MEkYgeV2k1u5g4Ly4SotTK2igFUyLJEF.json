@@ -1,0 +1,108 @@
+{
+  "id": "tpl_untitled_template_37",
+  "schemaVersion": 1,
+  "status": "archived",
+  "meta": {
+    "name": "Woman faces",
+    "tags": [
+      "woman",
+      "faces",
+      "story"
+    ],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 421,
+      "y": 585,
+      "w": 238,
+      "h": 1335,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1WVVKBFT-4i6TGhvyY62tmcKqDWj5tg5c"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 120,
+      "y": 293,
+      "w": 261,
+      "h": 1335,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1v83WeMHSF1OwD4iVB618vjhhaL_E1ywC",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0.8550434201736807,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 699,
+      "y": 293,
+      "w": 261,
+      "h": 1335,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1BBtQ8vcS1gPMAid_DDHdOBDFtVsCR_by",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": -0.20638979107640557,
+        "offsetY": 0,
+        "rotation": 0
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-17T15:38:22.110Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

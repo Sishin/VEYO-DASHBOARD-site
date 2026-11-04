@@ -1,0 +1,130 @@
+{
+  "id": "tpl_untitled_template_33",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Beach lady",
+    "tags": [
+      "beach",
+      "woman",
+      "story",
+      "travel"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 1,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1920,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:138OrbzM3EBMgc4-Q7PUo6Vi5FlatMg19"
+    },
+    {
+      "id": "frame_frame_hand_phone_beach",
+      "type": "group",
+      "name": "Frame · Frame_hand_phone_beach.png",
+      "x": -55,
+      "y": 234,
+      "w": 1220,
+      "h": 1831,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_hand_phone_beach_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 312.261277100855,
+          "y": 151.36329080842972,
+          "w": 564.9307074267377,
+          "h": 1150.1226427569661,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1JukpdXNecgzCfwAWJrVpgOGQ96bUg2Rh",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.5527426160337553,
+            "y": -0.1316062176165803,
+            "w": 2.160337552742616,
+            "h": 1.5917098445595854
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1A_2BaZHwhZNhB6rZwV1SpebR8TsfGDbU",
+          "sampleTransform": {
+            "scale": 1.29,
+            "offsetX": -0.036242008436501306,
+            "offsetY": -0.14500000000000007,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_hand_phone_beach_png",
+          "type": "image",
+          "name": "Frame_hand_phone_beach.png",
+          "asset": "drive:1JukpdXNecgzCfwAWJrVpgOGQ96bUg2Rh",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 1220.4410219514334,
+          "h": 1830.6615329271501,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-19T18:38:14.363Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}
