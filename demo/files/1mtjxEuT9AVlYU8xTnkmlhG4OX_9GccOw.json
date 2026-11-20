@@ -1,0 +1,650 @@
+{
+  "id": "tpl_untitled_template_12",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Nepal",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 6,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 216,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1_MuHznXAuPk0xylcxVT45Omy8duh6SRZ"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 216,
+      "y": 0,
+      "w": 216,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:14v00q08P1aYYyGrBg0CEQao9Jrwrz3hQ"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 432,
+      "y": 0,
+      "w": 216,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1q04itR1YSVTfNV2XghClQmgA27zQI9oJ"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 648,
+      "y": 0,
+      "w": 216,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1sXcFvKUzWd66vnDWEr-D7E7Sr0blxnvo"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 864,
+      "y": 0,
+      "w": 216,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1rqPEcgD8aPnHGIpodQ6NJgg4cjxI-JRI"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "N",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Inter 18pt",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 250,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 46,
+      "y": 71,
+      "w": 125,
+      "h": 329,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_5",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1_MuHznXAuPk0xylcxVT45Omy8duh6SRZ"
+    },
+    {
+      "id": "image_slot_copy_6",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:14v00q08P1aYYyGrBg0CEQao9Jrwrz3hQ"
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "E",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 250,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 262,
+      "y": 71,
+      "w": 125,
+      "h": 329,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "P",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 250,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 478,
+      "y": 71,
+      "w": 125,
+      "h": 329,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "A",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 250,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 694,
+      "y": 71,
+      "w": 125,
+      "h": 329,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "L",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 250,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "uppercase"
+      },
+      "x": 910,
+      "y": 71,
+      "w": 125,
+      "h": 329,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2",
+      "type": "text",
+      "content": "Bhaktapur",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1158,
+      "y": 0,
+      "w": 1002,
+      "h": 236,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy",
+      "type": "text",
+      "content": "Pokhara",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2238,
+      "y": 0,
+      "w": 1002,
+      "h": 236,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_7",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1q04itR1YSVTfNV2XghClQmgA27zQI9oJ"
+    },
+    {
+      "id": "image_slot_copy_8",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "x": 4320,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Ut3-9FjwRMl2nx8GF86V-QkMjegnXhfX"
+    },
+    {
+      "id": "image_slot_copy_9",
+      "type": "image_slot",
+      "slotIndex": 9,
+      "allowUserTransform": true,
+      "x": 5400,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1rqPEcgD8aPnHGIpodQ6NJgg4cjxI-JRI"
+    },
+    {
+      "id": "text_2_copy_2",
+      "type": "text",
+      "content": "Machhapuchhre",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3318,
+      "y": 0,
+      "w": 1002,
+      "h": 236,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_3",
+      "type": "text",
+      "content": "Pashupatinath",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4398,
+      "y": 0,
+      "w": 1002,
+      "h": 236,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_2_copy_4",
+      "type": "text",
+      "content": "Kathmandu",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "SairaExtraCondensed",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 5478,
+      "y": 0,
+      "w": 1002,
+      "h": 236,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 2700,
+      "y": 0,
+      "w": 493,
+      "h": 630,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0",
+          "type": "image_slot",
+          "slotIndex": 10,
+          "x": 68.78947596569061,
+          "y": 124.51765902650328,
+          "w": 355.70254344284325,
+          "h": 320.00167616951023,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1-tICMTVBLoBpv6e_pt5tu5Y7idQ7UR4T",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:192FfxqAqLYckDwX90BcFWGuuxtKFllw6",
+          "sampleTransform": {
+            "scale": 1.0176540221507624,
+            "offsetX": 0,
+            "offsetY": -0.242278155706727,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_instant_square_png",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "drive:1-tICMTVBLoBpv6e_pt5tu5Y7idQ7UR4T",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 492.66551835080924,
+          "h": 630.4250708754432,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_instant_square_copy",
+      "type": "group",
+      "name": "Frame · Frame_instant_square.png",
+      "x": 3780,
+      "y": 720,
+      "w": 493,
+      "h": 630,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_instant_square_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 11,
+          "x": 68.78947596569061,
+          "y": 124.51765902650328,
+          "w": 355.70254344284325,
+          "h": 320.00167616951023,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1-tICMTVBLoBpv6e_pt5tu5Y7idQ7UR4T",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.193390452876377,
+            "y": -0.38911564625850337,
+            "w": 1.3850491862731764,
+            "h": 1.9700680272108844
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1bjHiYeBM5_tHHVMcE7eVT-wIL5lhK7V-"
+        },
+        {
+          "id": "frame_frame_instant_square_png_copy",
+          "type": "image",
+          "name": "Frame_instant_square.png",
+          "asset": "drive:1-tICMTVBLoBpv6e_pt5tu5Y7idQ7UR4T",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 492.66551835080924,
+          "h": 630.4250708754432,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-15T10:53:00.290Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

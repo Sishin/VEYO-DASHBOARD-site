@@ -1,0 +1,407 @@
+{
+  "id": "tpl_travel_polaroid_story",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Travel Polaroid Story",
+    "tags": [
+      "travel",
+      "polaroid",
+      "summer",
+      "vintage"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#F1E6D3"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "bg_paper_f2_f4",
+      "type": "image",
+      "asset": "drive:fx_paper_map_vintage",
+      "x": 1080,
+      "y": 0,
+      "w": 3240,
+      "h": 1350,
+      "fit": "cover"
+    },
+    {
+      "id": "f1_hero",
+      "type": "image",
+      "asset": "drive:fx_coast_sunset",
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "fit": "cover",
+      "replaceable": true
+    },
+    {
+      "id": "f1_flowers_tl",
+      "type": "image",
+      "asset": "drive:fx_bougainvillea_corner",
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 360,
+      "fit": "contain"
+    },
+    {
+      "id": "f1_flowers_tr",
+      "type": "image",
+      "asset": "drive:fx_bougainvillea_corner",
+      "x": 700,
+      "y": 0,
+      "w": 400,
+      "h": 380,
+      "fit": "contain",
+      "rotation": 90
+    },
+    {
+      "id": "f1_kicker",
+      "type": "text",
+      "x": 253,
+      "y": 185,
+      "w": 600,
+      "h": 50,
+      "content": "",
+      "sampleContent": "ITALY 2024",
+      "placeholder": "Add a place or year",
+      "editable": true,
+      "maxLength": 24,
+      "maxLines": 1,
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontSize": 28,
+        "letterSpacing": 6,
+        "color": "#2B2B2B",
+        "textTransform": "uppercase",
+        "align": "left"
+      }
+    },
+    {
+      "id": "f1_divider_1",
+      "type": "shape",
+      "shape": "line",
+      "x": 253,
+      "y": 262,
+      "w": 90,
+      "h": 2,
+      "stroke": "#2B2B2B",
+      "strokeWidth": 2
+    },
+    {
+      "id": "f1_title",
+      "type": "text",
+      "x": 240,
+      "y": 300,
+      "w": 640,
+      "h": 500,
+      "rotation": -5,
+      "content": "Your\nTravel Story\nHere",
+      "sampleContent": "Collect\nMoments\nNot Things",
+      "placeholder": "Add a title",
+      "editable": true,
+      "maxLength": 40,
+      "maxLines": 3,
+      "autoFit": "shrink",
+      "minFontSize": 80,
+      "style": {
+        "fontFamily": "Caveat",
+        "fontSize": 150,
+        "lineHeight": 1.05,
+        "color": "#1F1F1F",
+        "align": "left"
+      }
+    },
+    {
+      "id": "f1_divider_2",
+      "type": "shape",
+      "shape": "line",
+      "x": 253,
+      "y": 860,
+      "w": 90,
+      "h": 2,
+      "stroke": "#2B2B2B",
+      "strokeWidth": 2
+    },
+    {
+      "id": "f1_list",
+      "type": "text",
+      "x": 253,
+      "y": 900,
+      "w": 600,
+      "h": 220,
+      "content": "PLACES\nPEOPLE\nFOOD\nMEMORIES",
+      "sampleContent": "GOOD FOOD\nGREAT VIEWS\nHAPPIER DAYS",
+      "editable": true,
+      "maxLines": 4,
+      "autoFit": "shrink",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontSize": 28,
+        "letterSpacing": 6,
+        "lineHeight": 1.8,
+        "color": "#2B2B2B",
+        "textTransform": "uppercase",
+        "align": "left"
+      }
+    },
+    {
+      "id": "f2_leaf",
+      "type": "image",
+      "asset": "drive:1PBj0mnWAqjOZh-mFSpFpXz_u1P-vgB4h",
+      "x": 1690,
+      "y": 120,
+      "w": 260,
+      "h": 300,
+      "rotation": 25,
+      "fit": "contain"
+    },
+    {
+      "id": "leaf_f2_f3",
+      "type": "image",
+      "asset": "drive:1PBj0mnWAqjOZh-mFSpFpXz_u1P-vgB4h",
+      "x": 2030,
+      "y": 820,
+      "w": 260,
+      "h": 420,
+      "rotation": -30,
+      "fit": "contain"
+    },
+    {
+      "id": "f2_p1",
+      "type": "polaroid",
+      "componentVersion": 1,
+      "x": 1122,
+      "y": 68,
+      "w": 590,
+      "h": 590,
+      "rotation": -2,
+      "props": {
+        "slotIndex": 0,
+        "sampleAsset": "drive:fx_sample_street",
+        "sampleCaption": "Little streets"
+      }
+    },
+    {
+      "id": "f2_p2",
+      "type": "polaroid",
+      "componentVersion": 1,
+      "x": 1656,
+      "y": 382,
+      "w": 520,
+      "h": 683,
+      "rotation": 3,
+      "props": {
+        "slotIndex": 1,
+        "sampleAsset": "drive:fx_sample_dome",
+        "sampleCaption": "Iconic views"
+      }
+    },
+    {
+      "id": "f2_p3",
+      "type": "polaroid",
+      "componentVersion": 1,
+      "x": 1145,
+      "y": 677,
+      "w": 526,
+      "h": 579,
+      "rotation": -3,
+      "props": {
+        "slotIndex": 2,
+        "sampleAsset": "drive:fx_sample_pizza",
+        "sampleCaption": "Good food"
+      }
+    },
+    {
+      "id": "f3_postmark",
+      "type": "image",
+      "asset": "drive:fx_postmark_ciao",
+      "x": 2960,
+      "y": 50,
+      "w": 230,
+      "h": 230,
+      "fit": "contain",
+      "opacity": 0.85
+    },
+    {
+      "id": "f3_p1",
+      "type": "polaroid",
+      "componentVersion": 1,
+      "x": 2202,
+      "y": 82,
+      "w": 492,
+      "h": 628,
+      "rotation": -2,
+      "props": {
+        "slotIndex": 3,
+        "sampleAsset": "drive:fx_sample_bay",
+        "sampleCaption": "Crystal waters"
+      }
+    },
+    {
+      "id": "f3_p2",
+      "type": "polaroid",
+      "componentVersion": 1,
+      "x": 2689,
+      "y": 232,
+      "w": 573,
+      "h": 587,
+      "rotation": 3,
+      "props": {
+        "slotIndex": 4,
+        "sampleAsset": "drive:fx_sample_sunset",
+        "sampleCaption": "Golden evenings"
+      }
+    },
+    {
+      "id": "f3_p3",
+      "type": "polaroid",
+      "componentVersion": 1,
+      "x": 2244,
+      "y": 751,
+      "w": 746,
+      "h": 532,
+      "rotation": -1,
+      "props": {
+        "slotIndex": 5,
+        "sampleAsset": "drive:fx_sample_town",
+        "sampleCaption": "Postcard places"
+      }
+    },
+    {
+      "id": "f3_phrase",
+      "type": "text",
+      "x": 3020,
+      "y": 880,
+      "w": 210,
+      "h": 360,
+      "rotation": -8,
+      "content": "Same\nPlaces\nNew\nStories",
+      "editable": true,
+      "maxLines": 4,
+      "autoFit": "shrink",
+      "style": {
+        "fontFamily": "Caveat",
+        "fontSize": 64,
+        "lineHeight": 1,
+        "color": "#1F1F1F",
+        "align": "left"
+      }
+    },
+    {
+      "id": "f3_heart",
+      "type": "image",
+      "asset": "drive:fx_heart_doodle",
+      "x": 3100,
+      "y": 1250,
+      "w": 60,
+      "h": 55,
+      "fit": "contain"
+    },
+    {
+      "id": "f4_leaf",
+      "type": "image",
+      "asset": "drive:1PBj0mnWAqjOZh-mFSpFpXz_u1P-vgB4h",
+      "x": 3270,
+      "y": 1000,
+      "w": 300,
+      "h": 320,
+      "rotation": -35,
+      "fit": "contain"
+    },
+    {
+      "id": "f4_p1",
+      "type": "polaroid",
+      "componentVersion": 1,
+      "x": 3305,
+      "y": 110,
+      "w": 735,
+      "h": 1010,
+      "rotation": -3,
+      "props": {
+        "slotIndex": 6,
+        "sampleAsset": "drive:fx_sample_lemon_coast",
+        "sampleCaption": "Until Next Time ♡"
+      }
+    },
+    {
+      "id": "f4_kicker",
+      "type": "text",
+      "x": 4010,
+      "y": 120,
+      "w": 280,
+      "h": 110,
+      "content": "UNTIL\nNEXT TIME",
+      "sampleContent": "POSITANO\nITALY",
+      "editable": true,
+      "maxLines": 2,
+      "autoFit": "shrink",
+      "style": {
+        "fontFamily": "NotoSerif Condensed",
+        "fontSize": 26,
+        "letterSpacing": 6,
+        "lineHeight": 1.6,
+        "color": "#2B2B2B",
+        "textTransform": "uppercase",
+        "align": "left"
+      }
+    },
+    {
+      "id": "f4_divider",
+      "type": "shape",
+      "shape": "line",
+      "x": 4012,
+      "y": 255,
+      "w": 80,
+      "h": 2,
+      "stroke": "#2B2B2B",
+      "strokeWidth": 2
+    },
+    {
+      "id": "f4_heart",
+      "type": "image",
+      "asset": "drive:fx_heart_doodle",
+      "x": 4030,
+      "y": 330,
+      "w": 50,
+      "h": 45,
+      "fit": "contain"
+    },
+    {
+      "id": "f4_stamp",
+      "type": "image",
+      "asset": "drive:fx_stamp_italia",
+      "x": 4060,
+      "y": 1030,
+      "w": 210,
+      "h": 290,
+      "fit": "contain"
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-09-25T09:00:00.000Z",
+  "updatedBy": "fixtures"
+}

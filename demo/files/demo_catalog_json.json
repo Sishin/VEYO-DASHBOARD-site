@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-25T09:00:00.000Z",
+  "sections": [
+    {
+      "id": "travel",
+      "title": {
+        "en": "Travel",
+        "it": "Viaggi"
+      },
+      "layout": "horizontal_carousel",
+      "rules": {
+        "platforms": [
+          "android",
+          "ios",
+          "web"
+        ],
+        "minAppVersion": "",
+        "locales": [
+          "*"
+        ],
+        "countries": [
+          "*"
+        ],
+        "startAt": null,
+        "endAt": null
+      },
+      "items": [
+        {
+          "templateId": "tpl_travel_polaroid_story",
+          "badge": "new"
+        }
+      ]
+    }
+  ],
+  "stickerPacks": [
+    {
+      "id": "travel",
+      "title": {
+        "en": "Travel"
+      },
+      "premium": false,
+      "order": 1
+    },
+    {
+      "id": "scrapbook",
+      "title": {
+        "en": "Scrapbook"
+      },
+      "premium": false,
+      "order": 2
+    },
+    {
+      "id": "wedding",
+      "title": {
+        "en": "Wedding"
+      },
+      "premium": true,
+      "order": 3
+    },
+    {
+      "id": "generic",
+      "title": {
+        "en": "Fun"
+      },
+      "premium": false,
+      "order": 4
+    },
+    {
+      "id": "tape",
+      "title": {
+        "en": "Tape"
+      },
+      "premium": false,
+      "order": 5,
+      "hidden": true
+    }
+  ]
+}

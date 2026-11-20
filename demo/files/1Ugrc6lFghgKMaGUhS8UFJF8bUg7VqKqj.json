@@ -1,0 +1,224 @@
+{
+  "id": "tpl_untitled_template_14",
+  "schemaVersion": 1,
+  "status": "archived",
+  "meta": {
+    "name": "Untitled template",
+    "tags": [],
+    "premium": false,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 3,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "frame_frame_negative_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_negative.png",
+      "x": 540,
+      "y": 883,
+      "w": 459,
+      "h": 612,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_negative_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 74.82546973146418,
+          "y": 68.9070709956422,
+          "w": 310.2931908638119,
+          "h": 469.24447119731803,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1hNKfE8DE7Ixh3_IWRtd6-Xfsvsb0O4R_",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.24114441416893734,
+            "y": -0.14684684684684685,
+            "w": 1.4795640326975477,
+            "h": 1.3045045045045045
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_negative_png_copy_2",
+          "type": "image",
+          "name": "Frame_negative.png",
+          "asset": "drive:1hNKfE8DE7Ixh3_IWRtd6-Xfsvsb0O4R_",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 459.09864479305145,
+          "h": 612.1315263907356,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_negative_copy",
+      "type": "group",
+      "name": "Frame · Frame_negative.png",
+      "x": 540,
+      "y": 370,
+      "w": 459,
+      "h": 612,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_negative_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 74.82546973146418,
+          "y": 68.9070709956422,
+          "w": 310.2931908638119,
+          "h": 469.24447119731803,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1hNKfE8DE7Ixh3_IWRtd6-Xfsvsb0O4R_",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.24114441416893734,
+            "y": -0.14684684684684685,
+            "w": 1.4795640326975477,
+            "h": 1.3045045045045045
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_negative_png_copy",
+          "type": "image",
+          "name": "Frame_negative.png",
+          "asset": "drive:1hNKfE8DE7Ixh3_IWRtd6-Xfsvsb0O4R_",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 459.09864479305145,
+          "h": 612.1315263907356,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_negative",
+      "type": "group",
+      "name": "Frame · Frame_negative.png",
+      "x": 540,
+      "y": -145,
+      "w": 459,
+      "h": 612,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_negative_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 74.82546973146418,
+          "y": 68.9070709956422,
+          "w": 310.2931908638119,
+          "h": 469.24447119731803,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1hNKfE8DE7Ixh3_IWRtd6-Xfsvsb0O4R_",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.24114441416893734,
+            "y": -0.14684684684684685,
+            "w": 1.4795640326975477,
+            "h": 1.3045045045045045
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_negative_png",
+          "type": "image",
+          "name": "Frame_negative.png",
+          "asset": "drive:1hNKfE8DE7Ixh3_IWRtd6-Xfsvsb0O4R_",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 459.09864479305145,
+          "h": 612.1315263907356,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-06T11:16:36.799Z",
+  "updatedBy": "designer@veyo.local"
+}

@@ -1,0 +1,752 @@
+{
+  "id": "tpl_untitled_template_36",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Christmas moments",
+    "tags": [
+      "festive",
+      "christmas",
+      "post"
+    ],
+    "premium": false,
+    "category": "Festive"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "shape",
+      "type": "shape",
+      "shape": "rect",
+      "fill": "#770808",
+      "strokeWidth": 0,
+      "cornerRadius": 0,
+      "x": 0,
+      "y": 0,
+      "w": 4320,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_without_bow_copy",
+      "type": "group",
+      "name": "Frame · Frame_without_bow.png",
+      "x": 408,
+      "y": 400,
+      "w": 630,
+      "h": 638,
+      "rotation": -10.8,
+      "children": [
+        {
+          "id": "frame_frame_without_bow_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 200,
+          "y": 175,
+          "w": 234,
+          "h": 334,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8540772532188841,
+            "y": -0.524812030075188,
+            "w": 2.690987124463519,
+            "h": 1.909722222222222
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1xYaDDBqbmCPZ4iT0XXfXWT6MYMmIarmG"
+        },
+        {
+          "id": "frame_frame_without_bow_png_copy",
+          "type": "image",
+          "name": "Frame_without_bow.png",
+          "asset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 630.2815655870166,
+          "h": 637.6014164124275,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_without_bow",
+      "type": "group",
+      "name": "Frame · Frame_without_bow.png",
+      "x": 47,
+      "y": 428,
+      "w": 613,
+      "h": 621,
+      "rotation": 9.56,
+      "children": [
+        {
+          "id": "frame_frame_without_bow_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 194.5094265187555,
+          "y": 170.562286067954,
+          "w": 227.7421928586434,
+          "h": 324.9969061180213,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8540772532188841,
+            "y": -0.524812030075188,
+            "w": 2.690987124463519,
+            "h": 1.909722222222222
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1NS8XRfmWTPdwpwqysznz-xOXpXOwva6y"
+        },
+        {
+          "id": "frame_frame_without_bow_png",
+          "type": "image",
+          "name": "Frame_without_bow.png",
+          "asset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 612.8513086796969,
+          "h": 620.6538137670545,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_with_bow",
+      "type": "group",
+      "name": "Frame · Frame_with_bow.png",
+      "x": 206,
+      "y": 21,
+      "w": 668,
+      "h": 668,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_with_bow_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 209.39834270935137,
+          "y": 185.95425344927125,
+          "w": 253.62242017722963,
+          "h": 354.85826016393884,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1InPAT3qa2aTvzVTdYKZnlFMAnwaneNve",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8256302521008404,
+            "y": -0.524024024024024,
+            "w": 2.634453781512605,
+            "h": 1.8828828828828827
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1sRzRp9HdZ7TtOiWtaXFLLGZt9j0gq9jO"
+        },
+        {
+          "id": "frame_frame_with_bow_png",
+          "type": "image",
+          "name": "Frame_with_bow.png",
+          "asset": "drive:1InPAT3qa2aTvzVTdYKZnlFMAnwaneNve",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 668.1565439122814,
+          "h": 668.1565439122812,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Christmas",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "FascinateInline",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 100,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#E9DDD1",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 240,
+      "y": 1102,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Moments",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ShadowsIntoLight",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#E9DDD1",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 240,
+      "y": 1228,
+      "w": 600,
+      "h": 58,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_without_bow_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_without_bow.png",
+      "x": 1305,
+      "y": 20,
+      "w": 630,
+      "h": 638,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_without_bow_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 4,
+          "x": 200.04151762650113,
+          "y": 175.21966798754877,
+          "w": 234.21946536168227,
+          "h": 333.8712871395987,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8540772532188841,
+            "y": -0.524812030075188,
+            "w": 2.690987124463519,
+            "h": 1.909722222222222
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1K72AmmJSx46JWZO52eejPDz0lCGGl_Nw"
+        },
+        {
+          "id": "frame_frame_without_bow_png_copy_2",
+          "type": "image",
+          "name": "Frame_without_bow.png",
+          "asset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 630.281565587016,
+          "h": 637.6014164124281,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_without_bow_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_without_bow.png",
+      "x": 1305,
+      "y": 649,
+      "w": 630,
+      "h": 638,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_without_bow_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 5,
+          "x": 200.04151762650113,
+          "y": 175.21966798754877,
+          "w": 234.21946536168227,
+          "h": 333.8712871395987,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8540772532188841,
+            "y": -0.524812030075188,
+            "w": 2.690987124463519,
+            "h": 1.909722222222222
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1B_FBez_yR19o9UwYz3Jus7YMxac0OH8O",
+          "sampleTransform": {
+            "scale": 1.1134908607465348,
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_without_bow_png_copy_3",
+          "type": "image",
+          "name": "Frame_without_bow.png",
+          "asset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 630.281565587016,
+          "h": 637.6014164124281,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_happy_star",
+      "type": "image",
+      "name": "christmas_happy_star.png",
+      "asset": "drive:1b3dpmRchVepqoJEmcxNiMDf2WT4FHGPN",
+      "fit": "contain",
+      "x": 1218,
+      "y": 419,
+      "w": 112,
+      "h": 64,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_happy_star_copy",
+      "type": "image",
+      "name": "christmas_happy_star.png",
+      "asset": "drive:1b3dpmRchVepqoJEmcxNiMDf2WT4FHGPN",
+      "fit": "contain",
+      "x": 1915,
+      "y": 884,
+      "w": 112,
+      "h": 64,
+      "rotation": 23.79,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_without_bow_copy_4",
+      "type": "group",
+      "name": "Frame · Frame_without_bow.png",
+      "x": 3780,
+      "y": -123,
+      "w": 630,
+      "h": 638,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_without_bow_slot0_copy_4",
+          "type": "image_slot",
+          "slotIndex": 6,
+          "x": 200.04151762650113,
+          "y": 175.21966798754877,
+          "w": 234.21946536168227,
+          "h": 333.8712871395987,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8540772532188841,
+            "y": -0.524812030075188,
+            "w": 2.690987124463519,
+            "h": 1.909722222222222
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:11-dUSi2DYKCKPtQ5nc2wcqGcL2BssJj_"
+        },
+        {
+          "id": "frame_frame_without_bow_png_copy_4",
+          "type": "image",
+          "name": "Frame_without_bow.png",
+          "asset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 630.281565587016,
+          "h": 637.6014164124281,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_without_bow_copy_5",
+      "type": "group",
+      "name": "Frame · Frame_without_bow.png",
+      "x": 3780,
+      "y": 381,
+      "w": 630,
+      "h": 638,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_without_bow_slot0_copy_5",
+          "type": "image_slot",
+          "slotIndex": 7,
+          "x": 200.04151762650113,
+          "y": 175.21966798754877,
+          "w": 234.21946536168227,
+          "h": 333.8712871395987,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8540772532188841,
+            "y": -0.524812030075188,
+            "w": 2.690987124463519,
+            "h": 1.909722222222222
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1T3EzRl-B1oF5IvZixI4ds2za-V4U4ml4"
+        },
+        {
+          "id": "frame_frame_without_bow_png_copy_5",
+          "type": "image",
+          "name": "Frame_without_bow.png",
+          "asset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 630.281565587016,
+          "h": 637.6014164124281,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_without_bow_copy_6",
+      "type": "group",
+      "name": "Frame · Frame_without_bow.png",
+      "x": 3780,
+      "y": 885,
+      "w": 630,
+      "h": 638,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_without_bow_slot0_copy_6",
+          "type": "image_slot",
+          "slotIndex": 8,
+          "x": 200.04151762650113,
+          "y": 175.21966798754877,
+          "w": 234.21946536168227,
+          "h": 333.8712871395987,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.8540772532188841,
+            "y": -0.524812030075188,
+            "w": 2.690987124463519,
+            "h": 1.909722222222222
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1xaRSJfb2Hv5G-IBNpkI-ewPTP0x9qWPk"
+        },
+        {
+          "id": "frame_frame_without_bow_png_copy_6",
+          "type": "image",
+          "name": "Frame_without_bow.png",
+          "asset": "drive:1iCPy_f-_BWQ3Pltbx2HjKxUjSQz8oUCG",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 630.281565587016,
+          "h": 637.6014164124281,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Merry Everything",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ShadowsIntoLight",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 50,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#E9DDD1",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3240,
+      "y": 710,
+      "w": 610,
+      "h": 58,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "christmas_snowman",
+      "type": "image",
+      "name": "christmas_snowman.png",
+      "asset": "drive:1twSwt0nXxbE3VmO9EnauGpzIVNj0M5oU",
+      "fit": "contain",
+      "x": 3456,
+      "y": 572,
+      "w": 179,
+      "h": 103,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 2400,
+      "y": 227,
+      "w": 600,
+      "h": 896,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": 70,
+      "sampleAsset": "drive:1sBgZwaZ6nk_58rFdLh5m2cgHyMDRsxSp"
+    },
+    {
+      "id": "sticker_handdrawn_white_frame",
+      "type": "image",
+      "name": "sticker_handdrawn_white_frame.png",
+      "asset": "drive:1pe7NP_7I_VlUJwgzatiPj8KhGW5WdMps",
+      "fit": "contain",
+      "x": 2293,
+      "y": 137,
+      "w": 814,
+      "h": 1086,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-17T15:09:24.268Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

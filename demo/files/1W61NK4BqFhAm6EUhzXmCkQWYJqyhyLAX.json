@@ -1,0 +1,269 @@
+{
+  "id": "tpl_goa",
+  "schemaVersion": 1,
+  "status": "archived",
+  "meta": {
+    "name": "Goa",
+    "tags": [],
+    "premium": false,
+    "category": ""
+  },
+  "canvas": {
+    "frameCount": 3,
+    "frameSize": {
+      "w": 1080,
+      "h": 1920
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "frame_frame_paper_filled_arch",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_arch.png",
+      "x": 418,
+      "y": 604,
+      "w": 864,
+      "h": 1296,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_arch_png",
+          "type": "image",
+          "name": "Frame_paper_filled_arch.png",
+          "asset": "drive:1AssinQZi5KLCDModyBOLAkwRlJMse-Bh",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 1296,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_arch_slot0",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 1296,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1AssinQZi5KLCDModyBOLAkwRlJMse-Bh",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1M8iGT9rNJl7_ekvXcoWyRVdXVHez3Nhe"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_paper_filled_circle",
+      "type": "group",
+      "name": "Frame · Frame_paper_filled_circle.png",
+      "x": 1667,
+      "y": 598,
+      "w": 864,
+      "h": 852,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_paper_filled_circle_png",
+          "type": "image",
+          "name": "Frame_paper_filled_circle.png",
+          "asset": "drive:1Scs856GqPr5y2sQzD-xYd0-HN_wC4PZM",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 852,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_paper_filled_circle_slot0",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 852,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1Scs856GqPr5y2sQzD-xYd0-HN_wC4PZM",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1ND6ze5Jck_4ITqwRCQ0vQunugYbPQgqJ"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 1045,
+      "y": -250,
+      "w": 864,
+      "h": 1152,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 1152,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 1152,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1M8iGT9rNJl7_ekvXcoWyRVdXVHez3Nhe"
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_arch_thin_border",
+      "type": "group",
+      "name": "Frame · Frame_arch_thin_border.png",
+      "x": 2432,
+      "y": 71,
+      "w": 864,
+      "h": 1296,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_arch_thin_border_slot0",
+          "type": "image_slot",
+          "slotIndex": 3,
+          "x": 81.84375,
+          "y": 70.03125,
+          "w": 700.3125,
+          "h": 1146.65625,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1r9k9qATsJMBiT0iZbXA6rypRuNfPPfpt",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.11686746987951807,
+            "y": -0.061074319352465045,
+            "w": 1.2337349397590363,
+            "h": 1.130242825607064
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1qdj20KXa59z-oBfsFCL8z4spG2Z9tdgm"
+        },
+        {
+          "id": "frame_frame_arch_thin_border_png",
+          "type": "image",
+          "name": "Frame_arch_thin_border.png",
+          "asset": "drive:1r9k9qATsJMBiT0iZbXA6rypRuNfPPfpt",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 864,
+          "h": 1296,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-12T17:56:33.154Z",
+  "updatedBy": "sishin.santhosh@gmail.com"
+}

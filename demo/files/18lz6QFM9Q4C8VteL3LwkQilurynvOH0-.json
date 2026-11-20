@@ -1,0 +1,452 @@
+{
+  "id": "tpl_untitled_template_18",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "New Zealand",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 2007,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1O4a9z83s2qe2CGljbg6z0HurzbsJPj8i"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 2007,
+      "y": 0,
+      "w": 1233,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1PR5J9Mh22WMMYPnu20ghzzVR-o2pBDx_"
+    },
+    {
+      "id": "frame_frame_standard_white_border",
+      "type": "group",
+      "name": "Frame · Frame_standard_white_border.png",
+      "x": 360,
+      "y": 328,
+      "w": 522,
+      "h": 695,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_standard_white_border_slot0",
+          "type": "image_slot",
+          "slotIndex": 5,
+          "x": 53.787890409410245,
+          "y": 55.70888649546059,
+          "w": 414.45490556536635,
+          "h": 583.982810159311,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1297798377752028,
+            "y": -0.09539473684210525,
+            "w": 1.2584009269988412,
+            "h": 1.1907894736842106
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1p2V2oTgmhvt7lkjSag8oDsYywF7_CGU5",
+          "sampleTransform": {
+            "scale": 1.52,
+            "offsetX": 0.05582724504803183,
+            "offsetY": -0.26000000000000006,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_standard_white_border_png",
+          "type": "image",
+          "name": "Frame_standard_white_border.png",
+          "asset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 521.5504373626743,
+          "h": 695.4005831502323,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_standard_white_border_copy",
+      "type": "group",
+      "name": "Frame · Frame_standard_white_border.png",
+      "x": 882,
+      "y": 328,
+      "w": 522,
+      "h": 695,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_standard_white_border_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 7,
+          "x": 53.787890409410245,
+          "y": 55.70888649546059,
+          "w": 414.45490556536635,
+          "h": 583.982810159311,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1297798377752028,
+            "y": -0.09539473684210525,
+            "w": 1.2584009269988412,
+            "h": 1.1907894736842106
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1QhuSqC_6j727Ywciq6DeKO4QpBL8_Fww",
+          "sampleTransform": {
+            "scale": 1.0330338931439746,
+            "offsetX": -0.028389339513325524,
+            "offsetY": 0,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_standard_white_border_png_copy",
+          "type": "image",
+          "name": "Frame_standard_white_border.png",
+          "asset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 521.5504373626743,
+          "h": 695.4005831502323,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_standard_white_border_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_standard_white_border.png",
+      "x": 1404,
+      "y": 328,
+      "w": 522,
+      "h": 695,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_standard_white_border_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 6,
+          "x": 53.787890409410245,
+          "y": 55.70888649546059,
+          "w": 414.45490556536635,
+          "h": 583.982810159311,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1297798377752028,
+            "y": -0.09539473684210525,
+            "w": 1.2584009269988412,
+            "h": 1.1907894736842106
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1M8f9wRLsePei7D1eAJgzyRBDUGAjJESg",
+          "sampleTransform": {
+            "scale": 1,
+            "offsetX": 0.028389339513325524,
+            "offsetY": 0,
+            "rotation": 0
+          }
+        },
+        {
+          "id": "frame_frame_standard_white_border_png_copy_2",
+          "type": "image",
+          "name": "Frame_standard_white_border.png",
+          "asset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 521.5504373626743,
+          "h": 695.4005831502323,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "New Zealand",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "Chewy",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 20,
+      "y": 373,
+      "w": 600,
+      "h": 120,
+      "rotation": 15.77,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_standard_white_border_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_standard_white_border.png",
+      "x": 2318,
+      "y": 167,
+      "w": 765,
+      "h": 1018,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_standard_white_border_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 78.80583041005858,
+          "y": 81.62032435327491,
+          "w": 607.2270682489333,
+          "h": 855.6061587377784,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "maskMode": "silhouette",
+          "maskBox": {
+            "x": -0.1297798377752028,
+            "y": -0.09539473684210525,
+            "w": 1.2584009269988412,
+            "h": 1.1907894736842106
+          },
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1hfhulE_zKCxfddXfdhe-DdxGr39WHa3i"
+        },
+        {
+          "id": "frame_frame_standard_white_border_png_copy_3",
+          "type": "image",
+          "name": "Frame_standard_white_border.png",
+          "asset": "drive:1r7AHiWo9aDBePxZtn14UaDc91bxtYltS",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 764.1351055832465,
+          "h": 1018.8468074443282,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 1,
+      "w": 1080,
+      "h": 674,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1PFOE-3MkR4ar7qOJ2vFi_UVOlKbzItwb"
+    },
+    {
+      "id": "seperator_paper_white_thin",
+      "type": "image",
+      "name": "Seperator_paper_white_thin.png",
+      "asset": "drive:1irY_Hok-drvcgVKVO2z9IKygWFkhYPRN",
+      "fit": "contain",
+      "x": 1875,
+      "y": -45,
+      "w": 265,
+      "h": 1442,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 676,
+      "w": 1080,
+      "h": 674,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:129ZZXB99siJlNnnY3QP9LBAUeC_qs3oD",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": -0.35750279337383584,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "seperator_paper_white_thin_copy",
+      "type": "image",
+      "name": "Seperator_paper_white_thin.png",
+      "asset": "drive:1irY_Hok-drvcgVKVO2z9IKygWFkhYPRN",
+      "fit": "contain",
+      "x": 3108,
+      "y": 0,
+      "w": 265,
+      "h": 1442,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-06T17:04:16.347Z",
+  "updatedBy": "designer@veyo.local"
+}

@@ -1,0 +1,433 @@
+{
+  "id": "tpl_untitled_template_32",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Travel places",
+    "tags": [
+      "post",
+      "poloroid",
+      "travel",
+      "lifestyle"
+    ],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 5,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 80,
+      "y": 80,
+      "w": 920,
+      "h": 950,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1SfDi_Qx1x_Y9BHhvtZXeHGYRPVrnJKuC"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1160,
+      "y": 80,
+      "w": 920,
+      "h": 950,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1OoynozQzG2y1cLOWop3yJIyFOL5b0IqM"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 2240,
+      "y": 80,
+      "w": 920,
+      "h": 950,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1qwmfc_7Y8aiu0sEnoFN21Vbh1uewcZkX"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 3320,
+      "y": 80,
+      "w": 920,
+      "h": 950,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:11Q3RRrJKDhjbQG-lVoGKzFbH-zCUh3fg"
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 4400,
+      "y": 80,
+      "w": 920,
+      "h": 950,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1pS5AHOprdTwZzyzgKGcWvf_DVmWxHqBT"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Rio de Janeiro, Brazil",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 80,
+      "y": 1052,
+      "w": 920,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Golden beaches, dramatic mountains, and endless ocean views.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 80,
+      "y": 1144,
+      "w": 920,
+      "h": 167,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "Hallstatt, Austria",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1160,
+      "y": 1052,
+      "w": 920,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "A charming lakeside village surrounded by alpine peaks and storybook houses.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 1160,
+      "y": 1144,
+      "w": 920,
+      "h": 167,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_4",
+      "type": "text",
+      "content": "Prague, Czechia",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2240,
+      "y": 1052,
+      "w": 920,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_5",
+      "type": "text",
+      "content": "Cobblestone streets, historic architecture, and cosy cafés around every corner.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2240,
+      "y": 1144,
+      "w": 920,
+      "h": 167,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_6",
+      "type": "text",
+      "content": "Turquoise waters, wooden boats, and stunning views of the Dolomites.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3320,
+      "y": 1144,
+      "w": 920,
+      "h": 167,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_7",
+      "type": "text",
+      "content": "Lake Braies, Italy",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3320,
+      "y": 1052,
+      "w": 920,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_8",
+      "type": "text",
+      "content": "Lush green valleys, towering cliffs, and waterfalls at every turn.",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 60,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4400,
+      "y": 1144,
+      "w": 920,
+      "h": 167,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text_copy_9",
+      "type": "text",
+      "content": "Lauterbrunnen, Switzerland",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 100,
+        "fontStyle": "normal",
+        "fontSize": 35,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#1F1F1F",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 4400,
+      "y": 1052,
+      "w": 920,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-16T07:42:44.277Z",
+  "updatedBy": "shreyas2888@gmail.com"
+}

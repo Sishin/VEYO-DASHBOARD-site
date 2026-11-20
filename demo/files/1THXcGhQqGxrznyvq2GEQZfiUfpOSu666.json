@@ -1,0 +1,327 @@
+{
+  "id": "tpl_untitled_template_7",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Rainy day",
+    "tags": [],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1368,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1cmfhACGsNqpXOFygun5UhgSeJFkyHoz-",
+      "sampleTransform": {
+        "scale": 1.42,
+        "offsetX": -0.10622452437102844,
+        "offsetY": 0.2428946750682021,
+        "rotation": 0
+      },
+      "blendMode": "multiply"
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "RAINY\nDAY\n",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 32,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 95,
+      "y": 81,
+      "w": 600,
+      "h": 80,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1175,
+      "y": 81,
+      "w": 445,
+      "h": 558,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1zuglD4EaNpzKncGNnAMvIVqcOjFg9ib4"
+    },
+    {
+      "id": "image_slot_2_copy",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 1479,
+      "y": 504,
+      "w": 610,
+      "h": 787,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1SQ7yNce22V3_oMqTetGE_kySpFOcgq6v"
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "11:20 AM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 32,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "left",
+        "verticalAlign": "top",
+        "textTransform": "none"
+      },
+      "x": 1784,
+      "y": 280,
+      "w": 305,
+      "h": 80,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2_copy_2",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 2241,
+      "y": 81,
+      "w": 363,
+      "h": 485,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1gxyoVspmNLARZvR-G8FCpE0XBlMjDiiT"
+    },
+    {
+      "id": "image_slot_2_copy_3",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 2694,
+      "y": 81,
+      "w": 470,
+      "h": 279,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ItC1jfd_rqIGczakJt3i2lcmdJ2fAmaw"
+    },
+    {
+      "id": "image_slot_2_copy_4",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 2241,
+      "y": 803,
+      "w": 363,
+      "h": 460,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1hlXExHXZ1z-vCt50oDX27cuMaI5TLDvE"
+    },
+    {
+      "id": "image_slot_2_copy_5",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 2694,
+      "y": 755,
+      "w": 470,
+      "h": 508,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1-I4xQZUehM-wkDblTtfGrxXbugtqguFW"
+    },
+    {
+      "id": "text_copy_2",
+      "type": "text",
+      "content": "3:00 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 32,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 2270,
+      "y": 650,
+      "w": 305,
+      "h": 80,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2_copy_6",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "x": 3313,
+      "y": 81,
+      "w": 931,
+      "h": 1030,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1ATXSGKNYBzG8IL9aNDtfqXHnBb6kXUsm"
+    },
+    {
+      "id": "text_copy_3",
+      "type": "text",
+      "content": "9 PM",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "AlfaSlabOne",
+        "fontWeight": 900,
+        "fontStyle": "normal",
+        "fontSize": 32,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3626,
+      "y": 1183,
+      "w": 305,
+      "h": 80,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_2_copy_7",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "x": 2694,
+      "y": 418,
+      "w": 470,
+      "h": 279,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1HnSKgnlNqcmG5LRga4uIt4l7Qo1t5ZCh"
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-04T09:45:49.487Z",
+  "updatedBy": "designer@veyo.local"
+}

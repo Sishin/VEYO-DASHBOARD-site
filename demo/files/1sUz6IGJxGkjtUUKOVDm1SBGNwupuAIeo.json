@@ -1,0 +1,314 @@
+{
+  "id": "tpl_untitled_template_13",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Floral escape",
+    "tags": [],
+    "premium": false,
+    "category": "Lifestyle"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "image_slot_2",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 3240,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1YnVkSOICXfkTNDQaLEy2OaXxmBuolldX"
+    },
+    {
+      "id": "image_slot",
+      "type": "image_slot",
+      "slotIndex": 0,
+      "allowUserTransform": true,
+      "x": 1176,
+      "y": 119,
+      "w": 444,
+      "h": 556,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": [
+        10000000,
+        100000,
+        0,
+        1000000
+      ],
+      "sampleAsset": "drive:1iepf7fpytv9A1bKkWaKb4o48kUBfr2OM"
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 1,
+      "allowUserTransform": true,
+      "x": 1620,
+      "y": 119,
+      "w": 444,
+      "h": 556,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": [
+        10000000,
+        100000,
+        100000,
+        0
+      ],
+      "sampleAsset": "drive:1ca41XprvArlgOU8IfLcKm2cD30Fymdau"
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 2,
+      "allowUserTransform": true,
+      "x": 1176,
+      "y": 675,
+      "w": 444,
+      "h": 556,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": [
+        10000000,
+        0,
+        100000,
+        1000000
+      ],
+      "sampleAsset": "drive:1Fm-9R5R8XyDC9O_eK-FGnJoAcZHVEq2U"
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 1620,
+      "y": 675,
+      "w": 444,
+      "h": 556,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "cornerRadius": [
+        0,
+        100000,
+        100000,
+        100000
+      ],
+      "sampleAsset": "drive:189iAClWPpV_TXvMtHnHlET6C7NseDY6Y"
+    },
+    {
+      "id": "image_slot_3",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 0,
+      "w": 1080,
+      "h": 1350,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1v_QaDiwDxMh_zg8JWg_ukVcdba_jBVS0"
+    },
+    {
+      "id": "wedding_flower_white",
+      "type": "image",
+      "name": "wedding_flower_white.png",
+      "asset": "drive:1pd4JJAFbBWvH97_ZDba3JIB61fYU1W3l",
+      "fit": "contain",
+      "x": 1460,
+      "y": 584,
+      "w": 320,
+      "h": 183,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "text",
+      "type": "text",
+      "content": "Floral escape",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#FFFFFF",
+        "align": "left",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 102,
+      "y": 59,
+      "w": 600,
+      "h": 120,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_3_copy",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 2214,
+      "y": 63,
+      "w": 973,
+      "h": 364,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1hTomnmNMMM_22CnQb50LQUkx3El8OaO1",
+      "cornerRadius": [
+        100,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "id": "image_slot_3_copy_2",
+      "type": "image_slot",
+      "slotIndex": 7,
+      "allowUserTransform": true,
+      "x": 2214,
+      "y": 464,
+      "w": 973,
+      "h": 424,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1rjzKl4k_QqfAD5cCD0taUu1i23emD5wu"
+    },
+    {
+      "id": "image_slot_3_copy_3",
+      "type": "image_slot",
+      "slotIndex": 8,
+      "allowUserTransform": true,
+      "x": 2214,
+      "y": 925,
+      "w": 973,
+      "h": 364,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1BzHyk0vrWVcsaDlBT28BZT7nJnaOTPIm",
+      "cornerRadius": [
+        0,
+        0,
+        100,
+        100
+      ]
+    },
+    {
+      "id": "text_copy",
+      "type": "text",
+      "content": "Provence, France\nJune 2026\n",
+      "editable": true,
+      "autoFit": "none",
+      "style": {
+        "fontFamily": "ReenieBeanie",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": 64,
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "color": "#000000",
+        "align": "center",
+        "verticalAlign": "middle",
+        "textTransform": "none"
+      },
+      "x": 3480,
+      "y": 578,
+      "w": 600,
+      "h": 195,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-05T07:35:22.170Z",
+  "updatedBy": "designer@veyo.local"
+}

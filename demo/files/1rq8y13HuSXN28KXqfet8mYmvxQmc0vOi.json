@@ -1,0 +1,460 @@
+{
+  "id": "tpl_untitled_template_24",
+  "schemaVersion": 1,
+  "status": "ready",
+  "meta": {
+    "name": "Beach stamps",
+    "tags": [],
+    "premium": false,
+    "category": "travel"
+  },
+  "canvas": {
+    "frameCount": 4,
+    "frameSize": {
+      "w": 1080,
+      "h": 1350
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  "placeholderStyle": {
+    "fill": "#9E9E9E",
+    "icon": "plus_circle",
+    "iconColor": "#FFFFFF",
+    "iconSize": 96,
+    "iconStrokeWidth": 4
+  },
+  "layers": [
+    {
+      "id": "frame_frame_stamp_filled_portrait_copy",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 388,
+      "y": 134,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png_copy",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0_copy",
+          "type": "image_slot",
+          "slotIndex": 2,
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1LZDk7JjEAA1C41c39AnKKQNwzgVQfc4-",
+          "sampleTransform": {
+            "scale": 3.5,
+            "offsetX": -0.012219922444979613,
+            "offsetY": 0.503982585568803,
+            "rotation": 0
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "seperator_stamp_filled_portrait_copy",
+      "type": "image",
+      "name": "Seperator_stamp_filled_portrait.png",
+      "asset": "drive:1PBZD5NwbFf6ys_1PGA5b36CC6RWAJ4xh",
+      "fit": "contain",
+      "x": 388,
+      "y": 809,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy",
+      "type": "image_slot",
+      "slotIndex": 3,
+      "allowUserTransform": true,
+      "x": 0,
+      "y": 675,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Q7-hY9CEqDz3PhXqHmp5VQ60MY5Rg3iP",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.27073813716147316,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "seperator_stamp_filled_portrait_copy_2",
+      "type": "image",
+      "name": "Seperator_stamp_filled_portrait.png",
+      "asset": "drive:1PBZD5NwbFf6ys_1PGA5b36CC6RWAJ4xh",
+      "fit": "contain",
+      "x": 388,
+      "y": 809,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_2",
+      "type": "image_slot",
+      "slotIndex": 4,
+      "allowUserTransform": true,
+      "x": 1080,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1k6GCDk1iBH1v0izoIWBtFaD50MCrSdpF",
+      "sampleTransform": {
+        "scale": 1,
+        "offsetX": 0,
+        "offsetY": 0.10498009400138775,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "seperator_stamp_filled_portrait_copy_3",
+      "type": "image",
+      "name": "Seperator_stamp_filled_portrait.png",
+      "asset": "drive:1PBZD5NwbFf6ys_1PGA5b36CC6RWAJ4xh",
+      "fit": "contain",
+      "x": 1468,
+      "y": 134,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait_copy_2",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 1468,
+      "y": 809,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png_copy_2",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0_copy_2",
+          "type": "image_slot",
+          "slotIndex": 1,
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:10CAdgwg2UUXaa6tlfEAJ_GeDmFuR7idV",
+          "sampleTransform": {
+            "scale": 3.63,
+            "offsetX": -0.012219922444979613,
+            "offsetY": 0.17566192749606516,
+            "rotation": 0
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait_copy_3",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 2548,
+      "y": 134,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png_copy_3",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0_copy_3",
+          "type": "image_slot",
+          "slotIndex": 0,
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:18dktVKvnC9dmdM0TijsvFhxBinPCmaYb",
+          "sampleTransform": {
+            "scale": 2.68,
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_3",
+      "type": "image_slot",
+      "slotIndex": 5,
+      "allowUserTransform": true,
+      "x": 2160,
+      "y": 675,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:19PAbvc2bH-tSNUIVn4jRysyzxkG2qNQp"
+    },
+    {
+      "id": "seperator_stamp_filled_portrait_copy_4",
+      "type": "image",
+      "name": "Seperator_stamp_filled_portrait.png",
+      "asset": "drive:1PBZD5NwbFf6ys_1PGA5b36CC6RWAJ4xh",
+      "fit": "contain",
+      "x": 2548,
+      "y": 809,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "frame_frame_stamp_filled_portrait_copy_4",
+      "type": "group",
+      "name": "Frame · Frame_stamp_filled_portrait.png",
+      "x": 3628,
+      "y": 809,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "children": [
+        {
+          "id": "frame_frame_stamp_filled_portrait_png_copy_4",
+          "type": "image",
+          "name": "Frame_stamp_filled_portrait.png",
+          "asset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "fit": "fill",
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          }
+        },
+        {
+          "id": "frame_frame_stamp_filled_portrait_slot0_copy_4",
+          "type": "image_slot",
+          "slotIndex": 7,
+          "x": 0,
+          "y": 0,
+          "w": 305.2029166219612,
+          "h": 407.0092584232807,
+          "rotation": 0,
+          "fit": "cover",
+          "allowUserTransform": true,
+          "maskAsset": "drive:1KZEwyTtuyyFWiCVb9iDtDkDLhbm3riV2",
+          "userLocked": {
+            "move": true,
+            "resize": true,
+            "rotate": true,
+            "delete": true
+          },
+          "sampleAsset": "drive:1shVp1Fq0-oyTX7jx09rqK37GjEcTB65i",
+          "sampleTransform": {
+            "scale": 3.24,
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0
+          }
+        }
+      ],
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    },
+    {
+      "id": "image_slot_copy_4",
+      "type": "image_slot",
+      "slotIndex": 6,
+      "allowUserTransform": true,
+      "x": 3240,
+      "y": 0,
+      "w": 1080,
+      "h": 675,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      },
+      "sampleAsset": "drive:1Mlwk4q8el5eJ31AuLwkVngfi3Oqh3xYL"
+    },
+    {
+      "id": "seperator_stamp_filled_portrait_copy_5",
+      "type": "image",
+      "name": "Seperator_stamp_filled_portrait.png",
+      "asset": "drive:1PBZD5NwbFf6ys_1PGA5b36CC6RWAJ4xh",
+      "fit": "contain",
+      "x": 3628,
+      "y": 134,
+      "w": 305,
+      "h": 407,
+      "rotation": 0,
+      "userLocked": {
+        "move": true,
+        "resize": true,
+        "rotate": true,
+        "delete": true
+      }
+    }
+  ],
+  "animation": {
+    "durationMs": 0,
+    "tracks": []
+  },
+  "publishVersion": 0,
+  "updatedAt": "2026-10-06T16:53:45.249Z",
+  "updatedBy": "designer@veyo.local"
+}
